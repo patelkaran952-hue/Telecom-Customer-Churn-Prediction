@@ -1,0 +1,1408 @@
+customerID,ActualChurn,PredictedChurn,ChurnProbability,RiskCategory,Contract,MonthlyCharges,tenure,InternetService,PaymentMethod
+0604-THJFP,0,0,0.03885454,Low,Two year,75.95,59,DSL,Credit card (automatic)
+4059-IIEBK,0,1,0.7854305,High,Month-to-month,78.55,7,Fiber optic,Bank transfer (automatic)
+2228-BZDEE,0,0,0.07416947,Low,Two year,20.1,54,No,Mailed check
+2839-RFSQE,1,0,0.3223313,Medium,Month-to-month,20.65,2,No,Mailed check
+5360-LJCNJ,0,0,0.40307352,Medium,Two year,105.15,71,Fiber optic,Bank transfer (automatic)
+7752-XUSCI,1,1,0.6940334,High,Month-to-month,105.9,60,Fiber optic,Electronic check
+8277-RVRSV,0,0,0.055077422,Low,One year,24.15,33,No,Credit card (automatic)
+3530-CRZSB,0,0,0.21646263,Low,Month-to-month,20.65,7,No,Mailed check
+2845-HSJCY,1,1,0.81386274,High,Month-to-month,87.25,14,Fiber optic,Electronic check
+0336-KXKFK,0,0,0.012803983,Low,Two year,61.2,72,DSL,Credit card (automatic)
+7044-YAACC,0,1,0.8272986,High,Month-to-month,70.2,4,Fiber optic,Electronic check
+5396-IZEPB,0,0,0.29849052,Low,Month-to-month,19.7,9,No,Credit card (automatic)
+3317-VLGQT,0,1,0.8080005,High,Month-to-month,78.1,14,Fiber optic,Electronic check
+6967-PEJLL,0,0,0.049103852,Low,One year,40.2,37,DSL,Electronic check
+2091-MJTFX,1,0,0.21263307,Low,Month-to-month,51.2,30,DSL,Credit card (automatic)
+2034-GDRCN,1,1,0.88245887,High,Month-to-month,90.4,2,Fiber optic,Electronic check
+8676-TRMJS,1,1,0.8131572,High,Month-to-month,75.0,3,Fiber optic,Mailed check
+6298-QDFNH,1,1,0.75243086,High,Month-to-month,79.35,22,Fiber optic,Electronic check
+0701-TJSEF,0,0,0.31593546,Medium,Month-to-month,68.25,9,DSL,Bank transfer (automatic)
+5743-KHMNA,0,0,0.008209561,Low,Two year,25.55,71,No,Bank transfer (automatic)
+0613-WUXUM,0,0,0.022379367,Low,Two year,19.2,70,No,Mailed check
+3137-LUPIX,0,1,0.68144685,High,Month-to-month,64.4,4,DSL,Mailed check
+3716-UVSPD,0,1,0.67432815,High,Month-to-month,49.3,1,DSL,Electronic check
+4800-CZMPC,1,0,0.39919937,Medium,One year,103.25,48,Fiber optic,Credit card (automatic)
+5144-PQCDZ,0,0,0.22259504,Low,Month-to-month,19.95,4,No,Mailed check
+9286-DOJGF,1,1,0.6298696,High,Month-to-month,74.95,38,Fiber optic,Bank transfer (automatic)
+6258-NGCNG,0,0,0.31980622,Medium,Month-to-month,23.5,7,No,Mailed check
+1335-MXCSE,0,0,0.032791752,Low,Two year,55.25,55,DSL,Credit card (automatic)
+6322-HRPFA,0,0,0.1808777,Low,Month-to-month,59.6,49,DSL,Credit card (automatic)
+6646-QVXLR,1,0,0.47378442,Medium,One year,103.75,62,Fiber optic,Electronic check
+6941-KXRRV,0,0,0.28204238,Low,One year,58.95,48,DSL,Bank transfer (automatic)
+3716-BDVDB,1,1,0.9328483,High,Month-to-month,69.1,1,Fiber optic,Electronic check
+2465-BLLEU,0,1,0.6674625,High,Month-to-month,19.75,1,No,Mailed check
+1525-LNLOJ,0,0,0.05501989,Low,Two year,63.3,66,DSL,Bank transfer (automatic)
+0390-DCFDQ,1,1,0.90749985,High,Month-to-month,70.45,1,Fiber optic,Mailed check
+0258-NOKBL,0,1,0.78978574,High,Month-to-month,90.4,3,Fiber optic,Electronic check
+6303-KFWSL,0,0,0.18395323,Low,One year,55.25,29,DSL,Electronic check
+1194-BHJYC,0,0,0.023636542,Low,Two year,62.15,61,DSL,Mailed check
+5049-GLYVG,1,1,0.5083725,Medium,Month-to-month,20.6,1,No,Mailed check
+1685-VAYJF,0,0,0.38299906,Medium,Month-to-month,45.2,11,DSL,Credit card (automatic)
+2348-KCJLT,0,0,0.09614322,Low,One year,61.5,44,DSL,Mailed check
+6425-JWTDV,0,0,0.012656777,Low,Two year,19.25,48,No,Mailed check
+3022-BEXHZ,0,0,0.3751505,Medium,Two year,111.2,67,Fiber optic,Bank transfer (automatic)
+0670-ANMUU,0,0,0.07307391,Low,One year,97.65,71,Fiber optic,Credit card (automatic)
+6349-JDHQP,0,0,0.15990008,Low,Two year,19.85,53,No,Credit card (automatic)
+0961-ZWLVI,0,0,0.37418133,Medium,One year,109.2,49,Fiber optic,Credit card (automatic)
+9289-LBQVU,0,0,0.122030176,Low,One year,70.15,64,DSL,Mailed check
+4759-PXTAN,0,0,0.24552019,Low,One year,80.1,59,DSL,Electronic check
+6695-AMZUF,0,0,0.047128186,Low,Two year,86.45,70,DSL,Credit card (automatic)
+9114-AAFQH,0,0,0.29879627,Low,One year,65.65,48,DSL,Electronic check
+9992-UJOEL,0,1,0.6865264,High,Month-to-month,50.3,2,DSL,Mailed check
+1776-SPBWV,0,0,0.042986263,Low,One year,20.1,34,No,Bank transfer (automatic)
+3692-JHONH,0,1,0.60141015,High,One year,106.5,52,Fiber optic,Electronic check
+7495-OOKFY,1,1,0.8069405,High,Month-to-month,80.65,8,Fiber optic,Credit card (automatic)
+5982-PSMKW,0,0,0.04417247,Low,Two year,91.1,23,DSL,Credit card (automatic)
+3298-QEICA,0,0,0.039016664,Low,Two year,34.6,23,DSL,Mailed check
+8757-TFHHJ,0,1,0.5462945,Medium,Month-to-month,49.8,1,DSL,Credit card (automatic)
+5022-JNQEQ,0,1,0.66560954,High,Month-to-month,75.85,9,Fiber optic,Electronic check
+2418-TPEUN,0,0,0.059236288,Low,Two year,19.8,56,No,Credit card (automatic)
+4229-CZMLL,1,1,0.87017655,High,Month-to-month,74.9,6,Fiber optic,Electronic check
+0191-EQUUH,0,0,0.05167878,Low,Two year,35.05,25,DSL,Bank transfer (automatic)
+3099-OONVS,0,0,0.21263503,Low,Month-to-month,54.3,25,DSL,Electronic check
+0491-KAPQG,0,1,0.77538985,High,Month-to-month,73.7,21,Fiber optic,Electronic check
+1090-ESELR,0,0,0.05363733,Low,Two year,105.5,72,Fiber optic,Bank transfer (automatic)
+2208-NKVVH,0,0,0.033443052,Low,Two year,24.25,43,No,Mailed check
+9496-IVVRP,0,0,0.3269308,Medium,Month-to-month,51.0,11,DSL,Bank transfer (automatic)
+5016-LIPDW,0,0,0.25413606,Low,One year,19.4,57,No,Mailed check
+8204-TIFGJ,0,0,0.14465629,Low,Month-to-month,20.3,23,No,Bank transfer (automatic)
+7684-XSZIY,0,0,0.016081877,Low,Two year,24.3,72,No,Bank transfer (automatic)
+0440-QEXBZ,0,0,0.27663988,Low,Month-to-month,50.15,44,DSL,Mailed check
+6285-FTQBF,0,0,0.00626521,Low,Two year,25.55,72,No,Credit card (automatic)
+3707-GNWHM,1,1,0.91849154,High,Month-to-month,74.25,1,Fiber optic,Mailed check
+0019-GFNTW,0,0,0.035489377,Low,Two year,45.05,56,DSL,Bank transfer (automatic)
+8988-ECPJR,1,1,0.5974505,Medium,Month-to-month,79.6,34,Fiber optic,Mailed check
+9397-TZSHA,0,0,0.018885901,Low,Two year,24.6,69,No,Credit card (automatic)
+1989-PRJHP,1,1,0.6512748,High,Month-to-month,75.5,27,Fiber optic,Electronic check
+3587-PMCOY,0,1,0.6595288,High,One year,98.9,10,Fiber optic,Electronic check
+8292-FRFZQ,0,0,0.0791097,Low,One year,41.15,39,DSL,Bank transfer (automatic)
+1775-KWJKQ,0,0,0.019046217,Low,Two year,89.85,72,DSL,Credit card (automatic)
+6137-MFAJN,0,0,0.39141518,Medium,Month-to-month,44.8,48,DSL,Electronic check
+1395-WSWXR,0,0,0.017773505,Low,Two year,20.75,24,No,Mailed check
+9046-JBFWA,0,0,0.06540634,Low,Month-to-month,19.15,27,No,Mailed check
+9871-ELEYA,0,0,0.042653624,Low,Two year,67.65,34,DSL,Credit card (automatic)
+6712-OAWRH,1,1,0.7525238,High,Month-to-month,91.25,26,Fiber optic,Electronic check
+2361-UPSND,0,0,0.15735036,Low,One year,70.6,46,DSL,Mailed check
+4817-KEQSP,0,0,0.006347674,Low,Two year,19.85,71,No,Bank transfer (automatic)
+2842-BCQGE,0,1,0.6241511,High,Month-to-month,75.35,43,Fiber optic,Credit card (automatic)
+4190-MFLUW,1,0,0.33714688,Medium,Month-to-month,55.2,10,DSL,Credit card (automatic)
+1640-PLFMP,0,1,0.92989933,High,Month-to-month,70.25,1,Fiber optic,Electronic check
+6635-CPNUN,0,1,0.51776457,Medium,Month-to-month,96.6,28,Fiber optic,Credit card (automatic)
+6620-HVDUJ,0,0,0.16923513,Low,Month-to-month,60.45,24,DSL,Bank transfer (automatic)
+4706-AXVKM,1,1,0.8880814,High,Month-to-month,84.8,11,Fiber optic,Credit card (automatic)
+5495-GPSRW,0,0,0.0264161,Low,Two year,19.7,20,No,Mailed check
+6847-KJLTS,0,0,0.4523862,Medium,Month-to-month,100.4,58,Fiber optic,Bank transfer (automatic)
+1023-BQXZE,0,0,0.06020172,Low,Two year,74.35,57,DSL,Bank transfer (automatic)
+4806-DXQCE,0,0,0.1850351,Low,Two year,113.65,70,Fiber optic,Electronic check
+5360-XGYAZ,0,0,0.009706583,Low,Two year,65.65,72,DSL,Bank transfer (automatic)
+8631-WUXGY,0,1,0.6583077,High,Month-to-month,99.8,46,Fiber optic,Electronic check
+3780-YVMFA,0,1,0.5263972,Medium,Month-to-month,68.55,8,DSL,Electronic check
+7971-HLVXI,0,0,0.034008775,Low,Two year,84.5,72,Fiber optic,Credit card (automatic)
+9842-EFSYY,0,1,0.6800735,High,Month-to-month,57.2,4,DSL,Mailed check
+0277-BKSQP,0,1,0.59164923,Medium,Month-to-month,54.4,8,DSL,Electronic check
+9154-QDGTH,0,1,0.5442246,Medium,One year,104.3,43,Fiber optic,Credit card (automatic)
+1208-NBVFH,0,1,0.5272442,Medium,Month-to-month,49.6,20,DSL,Electronic check
+0866-QLSIR,1,0,0.077138945,Low,One year,64.4,34,DSL,Mailed check
+9667-TKTVZ,0,1,0.742226,High,Month-to-month,54.35,2,DSL,Mailed check
+0611-DFXKO,1,1,0.62571967,High,Month-to-month,89.0,20,Fiber optic,Mailed check
+8040-MNRTF,0,1,0.8842909,High,Month-to-month,71.1,1,Fiber optic,Mailed check
+8107-KNCIM,0,1,0.836863,High,Month-to-month,75.1,14,Fiber optic,Electronic check
+8938-UMKPI,1,1,0.7836557,High,Month-to-month,106.4,47,Fiber optic,Electronic check
+0670-KDOMA,0,1,0.5985336,Medium,Month-to-month,20.25,1,No,Mailed check
+0428-IKYCP,0,1,0.56361794,Medium,Month-to-month,87.0,22,Fiber optic,Bank transfer (automatic)
+0506-YLVKJ,0,0,0.019904708,Low,Two year,20.2,46,No,Mailed check
+3133-PZNSR,0,0,0.033026148,Low,Two year,97.75,72,Fiber optic,Credit card (automatic)
+2335-GSODA,0,0,0.049211394,Low,Two year,40.1,23,DSL,Mailed check
+0970-ETWGE,1,1,0.93751806,High,Month-to-month,89.55,1,Fiber optic,Electronic check
+9576-SYUHJ,0,1,0.5735457,Medium,Month-to-month,91.15,37,Fiber optic,Electronic check
+7606-BPHHN,0,0,0.0050646123,Low,Two year,19.8,72,No,Credit card (automatic)
+3108-PCCGG,0,0,0.103911735,Low,Two year,84.45,72,DSL,Credit card (automatic)
+6022-UGGSO,1,1,0.6851135,High,Month-to-month,74.4,32,Fiber optic,Electronic check
+3506-OVLKD,0,0,0.15741841,Low,One year,26.2,35,No,Bank transfer (automatic)
+7473-ZBDSN,0,0,0.0095964,Low,Two year,18.8,14,No,Mailed check
+6766-HFKLA,0,0,0.2101837,Low,Two year,103.2,56,Fiber optic,Bank transfer (automatic)
+9139-WQQDY,1,0,0.36442447,Medium,One year,100.45,49,Fiber optic,Mailed check
+4846-WHAFZ,1,1,0.7590561,High,Month-to-month,76.5,37,Fiber optic,Electronic check
+8896-BQTTI,0,1,0.5820446,Medium,Month-to-month,25.0,1,No,Mailed check
+3727-RJMEO,1,1,0.88498807,High,Month-to-month,82.85,6,Fiber optic,Electronic check
+3889-VWBID,0,0,0.028187947,Low,Two year,82.85,68,DSL,Bank transfer (automatic)
+7688-AWMDX,0,0,0.007386288,Low,Two year,54.5,71,DSL,Bank transfer (automatic)
+6752-APNJL,0,0,0.18095742,Low,Month-to-month,54.5,42,DSL,Mailed check
+1270-XKUCC,0,0,0.017605428,Low,Two year,19.7,30,No,Mailed check
+1024-GUALD,1,1,0.8805922,High,Month-to-month,24.8,1,DSL,Electronic check
+6997-UVGOX,0,0,0.0138977645,Low,Two year,85.45,71,DSL,Bank transfer (automatic)
+4317-VTEOA,1,1,0.8213358,High,Month-to-month,50.75,1,DSL,Electronic check
+2725-TTRIQ,0,0,0.015527334,Low,Two year,84.2,72,DSL,Bank transfer (automatic)
+0307-BCOPK,0,0,0.03784221,Low,One year,19.05,16,No,Mailed check
+6372-RFVNS,1,1,0.9197867,High,Month-to-month,78.8,1,Fiber optic,Electronic check
+4749-OJKQU,0,1,0.8831722,High,Month-to-month,75.65,4,Fiber optic,Electronic check
+5575-TPIZQ,0,0,0.49219093,Medium,Month-to-month,89.15,46,Fiber optic,Credit card (automatic)
+7706-DZNKK,0,0,0.2109372,Low,Month-to-month,20.45,11,No,Credit card (automatic)
+8092-NLTGF,0,0,0.008204869,Low,Two year,24.75,72,No,Bank transfer (automatic)
+6295-OSINB,0,0,0.06033801,Low,Two year,109.65,72,Fiber optic,Electronic check
+1956-YIFGE,0,0,0.49257162,Medium,One year,100.05,22,Fiber optic,Mailed check
+6463-MVYRY,0,0,0.060333226,Low,Two year,69.85,57,DSL,Bank transfer (automatic)
+4695-VADHF,1,0,0.438105,Medium,Month-to-month,57.45,18,DSL,Electronic check
+5630-IXDXV,0,1,0.776114,High,Month-to-month,106.35,47,Fiber optic,Electronic check
+0813-TAXXS,0,0,0.096434325,Low,Two year,77.8,55,DSL,Bank transfer (automatic)
+4445-ZJNMU,0,1,0.9207408,High,Month-to-month,99.3,9,Fiber optic,Credit card (automatic)
+5356-KZCKT,0,0,0.05704995,Low,Two year,24.45,58,No,Credit card (automatic)
+4644-PIZRT,0,0,0.11862715,Low,One year,70.35,17,DSL,Bank transfer (automatic)
+8181-YHCMF,0,0,0.026195042,Low,Two year,60.3,68,DSL,Credit card (automatic)
+0742-MOABM,1,1,0.51046544,Medium,Month-to-month,50.05,4,DSL,Mailed check
+6362-QHAFM,0,1,0.6510544,High,One year,108.3,42,Fiber optic,Electronic check
+3161-ONRWK,0,0,0.031940628,Low,One year,65.85,60,DSL,Bank transfer (automatic)
+0952-KMEEH,1,1,0.7747096,High,Month-to-month,98.15,13,Fiber optic,Mailed check
+6047-SUHPR,0,0,0.1218153,Low,One year,59.8,39,DSL,Electronic check
+4412-YLTKF,1,1,0.739071,High,Month-to-month,78.05,27,Fiber optic,Electronic check
+1227-UDMZR,0,0,0.01403244,Low,Two year,91.15,72,DSL,Bank transfer (automatic)
+1223-UNPKS,0,0,0.032966703,Low,Two year,20.05,20,No,Mailed check
+7762-ONLJY,0,0,0.07275281,Low,One year,19.7,6,No,Mailed check
+0430-IHCDJ,0,1,0.6523178,High,Month-to-month,49.0,15,DSL,Electronic check
+4967-WPNCF,0,0,0.011917958,Low,Two year,63.7,72,DSL,Bank transfer (automatic)
+3021-VLNRJ,0,0,0.052937694,Low,One year,70.8,50,DSL,Credit card (automatic)
+9103-TCIHJ,1,0,0.34977946,Medium,Month-to-month,55.7,15,DSL,Mailed check
+0835-JKADZ,0,0,0.15725426,Low,Two year,111.25,71,Fiber optic,Electronic check
+2346-DJQTB,0,1,0.5212482,Medium,Month-to-month,24.15,35,DSL,Electronic check
+3301-LSLWQ,0,0,0.33662713,Medium,Month-to-month,66.1,29,DSL,Electronic check
+5970-GHJAW,0,0,0.013807696,Low,Two year,19.95,46,No,Credit card (automatic)
+2834-JKOOW,0,0,0.14626543,Low,One year,45.9,15,DSL,Mailed check
+2188-SXWVT,0,0,0.078489184,Low,One year,55.0,34,DSL,Mailed check
+8421-WZOOW,0,0,0.28539345,Low,Month-to-month,95.3,57,Fiber optic,Credit card (automatic)
+9968-FFVVH,0,0,0.079364665,Low,One year,68.8,63,DSL,Bank transfer (automatic)
+1391-UBDAR,0,1,0.7196635,High,Month-to-month,72.9,11,Fiber optic,Electronic check
+0134-XWXCE,0,0,0.29914472,Low,One year,74.85,44,DSL,Bank transfer (automatic)
+7296-PIXQY,0,1,0.7316552,High,Month-to-month,70.2,14,Fiber optic,Electronic check
+6047-YHPVI,1,1,0.802982,High,Month-to-month,69.7,5,Fiber optic,Electronic check
+0895-LMRSF,0,0,0.31974044,Medium,One year,64.9,23,DSL,Bank transfer (automatic)
+0004-TLHLJ,1,1,0.82459545,High,Month-to-month,73.9,4,Fiber optic,Electronic check
+2907-ILJBN,0,0,0.054282427,Low,One year,20.6,11,No,Mailed check
+7306-YDSOI,0,0,0.027211687,Low,Two year,59.75,69,DSL,Bank transfer (automatic)
+4475-NVTLU,0,0,0.018208638,Low,Two year,19.2,45,No,Electronic check
+9710-ZUSHQ,1,1,0.6137476,High,Month-to-month,106.75,37,Fiber optic,Bank transfer (automatic)
+6946-LMSQS,1,0,0.28299567,Low,One year,89.05,25,Fiber optic,Electronic check
+8601-QACRS,1,1,0.69897014,High,Month-to-month,50.6,5,DSL,Mailed check
+4231-LZUYM,0,0,0.0065120207,Low,Two year,25.65,72,No,Bank transfer (automatic)
+8380-PEFPE,1,1,0.92688155,High,Month-to-month,71.65,1,Fiber optic,Electronic check
+2867-UIMSS,1,1,0.9144135,High,Month-to-month,80.5,1,Fiber optic,Electronic check
+9814-AOUDH,0,0,0.16915609,Low,Two year,19.5,53,No,Credit card (automatic)
+4032-RMHCI,0,0,0.078585975,Low,One year,35.4,41,DSL,Credit card (automatic)
+1452-KIOVK,0,1,0.623116,High,Month-to-month,89.1,22,Fiber optic,Credit card (automatic)
+4365-MSDYN,0,0,0.35029253,Medium,Month-to-month,19.55,8,No,Bank transfer (automatic)
+0383-CLDDA,0,0,0.05290757,Low,Two year,85.35,69,DSL,Credit card (automatic)
+1293-HHSHJ,0,0,0.046445355,Low,One year,21.1,35,No,Mailed check
+9822-OAOVB,0,1,0.84112656,High,Month-to-month,55.45,1,DSL,Electronic check
+7249-WBIYX,1,1,0.8751868,High,Month-to-month,85.6,10,Fiber optic,Electronic check
+6652-YFFJO,0,1,0.60357904,High,Month-to-month,64.9,11,DSL,Electronic check
+9128-CPXKI,0,0,0.25198457,Low,Two year,95.8,59,Fiber optic,Electronic check
+5127-BZENZ,0,0,0.06527181,Low,One year,65.2,56,DSL,Bank transfer (automatic)
+5924-SNGKP,0,0,0.0454488,Low,One year,20.25,41,No,Credit card (automatic)
+2919-HBCJO,1,1,0.8255285,High,Month-to-month,76.65,4,Fiber optic,Bank transfer (automatic)
+5622-UEJFI,0,0,0.09546969,Low,Two year,25.4,35,No,Credit card (automatic)
+2000-MPKCA,0,0,0.47102612,Medium,One year,107.75,58,Fiber optic,Electronic check
+4830-FAXFM,0,0,0.38737226,Medium,Month-to-month,24.1,19,No,Credit card (automatic)
+7629-WFGLW,0,0,0.3081062,Medium,One year,95.65,56,Fiber optic,Electronic check
+6259-WJQLC,0,1,0.6474929,High,Month-to-month,81.1,32,Fiber optic,Credit card (automatic)
+4854-CIDCF,0,1,0.81555504,High,Month-to-month,73.85,3,Fiber optic,Electronic check
+2074-GUHPQ,0,1,0.6227485,High,Month-to-month,92.7,17,Fiber optic,Credit card (automatic)
+7579-OOPEC,1,1,0.6817905,High,Month-to-month,50.15,2,DSL,Credit card (automatic)
+8714-EUHJO,1,1,0.7290046,High,Month-to-month,91.15,31,Fiber optic,Electronic check
+1707-HABPF,0,0,0.15550727,Low,One year,91.3,46,Fiber optic,Bank transfer (automatic)
+2860-RANUS,1,1,0.71867484,High,Month-to-month,85.8,20,Fiber optic,Credit card (automatic)
+5150-ITWWB,0,1,0.9361804,High,Month-to-month,94.85,3,Fiber optic,Electronic check
+4690-LLKUA,1,1,0.55116445,Medium,Month-to-month,45.05,17,DSL,Electronic check
+5716-LIBJC,0,1,0.5314292,Medium,One year,104.15,13,Fiber optic,Credit card (automatic)
+2485-ITVKB,1,1,0.83589137,High,Month-to-month,35.1,2,DSL,Electronic check
+1357-MVDOZ,0,0,0.40707448,Medium,Month-to-month,59.65,11,DSL,Bank transfer (automatic)
+3926-YZVVX,0,0,0.08421617,Low,One year,50.05,41,DSL,Bank transfer (automatic)
+0668-OGMHD,0,1,0.5870602,Medium,Month-to-month,28.5,21,DSL,Electronic check
+7279-BUYWN,1,1,0.63354003,High,Month-to-month,113.2,41,Fiber optic,Electronic check
+7338-ERIVA,0,0,0.06340626,Low,One year,45.05,39,DSL,Bank transfer (automatic)
+8049-WJCLQ,0,0,0.39846408,Medium,Month-to-month,60.2,10,DSL,Mailed check
+0388-EOPEX,1,1,0.72745144,High,Month-to-month,74.4,2,Fiber optic,Electronic check
+3296-SILRA,1,1,0.9057574,High,Month-to-month,76.4,1,Fiber optic,Mailed check
+8920-NAVAY,0,1,0.59365,Medium,One year,110.75,62,Fiber optic,Bank transfer (automatic)
+1834-ABKHQ,0,0,0.10730965,Low,One year,50.95,52,DSL,Bank transfer (automatic)
+3043-TYBNO,0,1,0.5601747,Medium,Month-to-month,60.65,3,DSL,Mailed check
+2573-GYRUU,0,1,0.6759666,High,Month-to-month,91.05,48,Fiber optic,Credit card (automatic)
+0979-PHULV,1,1,0.73853624,High,Month-to-month,99.45,69,Fiber optic,Credit card (automatic)
+4918-FYJNT,0,0,0.4385407,Medium,Month-to-month,90.45,55,Fiber optic,Electronic check
+3930-ZGWVE,0,1,0.62761235,High,Month-to-month,19.75,1,No,Mailed check
+5766-ZJYBB,1,0,0.45509648,Medium,Month-to-month,19.4,1,No,Mailed check
+0121-SNYRK,0,0,0.05220017,Low,One year,35.4,50,DSL,Mailed check
+3174-AKMAS,0,0,0.07116056,Low,Two year,64.2,46,DSL,Credit card (automatic)
+1212-GLHMD,0,1,0.7372292,High,Month-to-month,86.05,3,Fiber optic,Mailed check
+6741-EGCBI,0,1,0.54290026,Medium,Month-to-month,90.5,30,Fiber optic,Credit card (automatic)
+6248-TKCQV,0,0,0.038677175,Low,Two year,80.6,70,DSL,Bank transfer (automatic)
+9489-JMTTN,0,0,0.020131592,Low,Two year,89.75,72,DSL,Credit card (automatic)
+1568-LJSZU,0,0,0.16061822,Low,Two year,92.2,68,DSL,Credit card (automatic)
+5126-RCXYW,0,0,0.02905217,Low,Two year,46.0,54,DSL,Credit card (automatic)
+6961-MJKBO,0,0,0.018636966,Low,Two year,20.45,47,No,Bank transfer (automatic)
+9174-IHETN,0,0,0.04736398,Low,Two year,70.35,50,Fiber optic,Credit card (automatic)
+4160-AMJTL,1,0,0.34999266,Medium,Month-to-month,19.65,8,No,Electronic check
+2257-BOVXD,0,0,0.42274213,Medium,Month-to-month,66.6,14,DSL,Credit card (automatic)
+1550-LOAHA,1,0,0.48175716,Medium,Month-to-month,84.15,32,Fiber optic,Bank transfer (automatic)
+1972-XMUWV,0,0,0.026355084,Low,Two year,59.8,65,DSL,Credit card (automatic)
+2088-IEBAU,0,0,0.0718846,Low,Two year,88.15,68,DSL,Electronic check
+0825-CPPQH,0,0,0.017826166,Low,Two year,19.1,71,No,Credit card (automatic)
+2070-FNEXE,1,1,0.6044197,High,Month-to-month,76.45,7,Fiber optic,Bank transfer (automatic)
+1731-TVIUK,1,1,0.87879205,High,Month-to-month,93.5,4,Fiber optic,Electronic check
+1697-NVVGY,0,0,0.24655524,Low,Month-to-month,66.4,19,DSL,Bank transfer (automatic)
+6754-WKSHP,0,0,0.09873978,Low,One year,25.35,30,No,Bank transfer (automatic)
+7036-ZZKBD,0,0,0.21564202,Low,Month-to-month,66.4,31,DSL,Credit card (automatic)
+2203-GHNWN,0,1,0.57161885,Medium,Month-to-month,79.65,24,Fiber optic,Mailed check
+8722-PRFDV,0,0,0.01841968,Low,Two year,77.55,71,DSL,Credit card (automatic)
+7527-QNRUS,0,0,0.040499277,Low,Two year,25.15,17,No,Mailed check
+7861-UVUFT,1,1,0.7743284,High,Month-to-month,84.3,15,Fiber optic,Electronic check
+3563-SVYLG,0,0,0.030697118,Low,Two year,62.65,68,DSL,Credit card (automatic)
+0431-APWVY,1,0,0.3476051,Medium,One year,90.1,28,Fiber optic,Bank transfer (automatic)
+1656-DRSMG,0,0,0.44749933,Medium,Month-to-month,109.85,63,Fiber optic,Credit card (automatic)
+2027-FECZV,1,1,0.84976566,High,Month-to-month,106.7,12,Fiber optic,Electronic check
+6857-TKDJV,0,0,0.03826637,Low,Two year,24.65,67,No,Bank transfer (automatic)
+0841-NULXI,1,1,0.8939088,High,Month-to-month,35.55,1,DSL,Electronic check
+3891-PUQOD,1,1,0.78524405,High,Month-to-month,59.2,1,DSL,Electronic check
+1229-RCALF,0,0,0.23193884,Low,One year,115.0,64,Fiber optic,Electronic check
+2122-SZZZD,0,0,0.028153757,Low,One year,19.5,44,No,Credit card (automatic)
+2386-LAHRK,1,1,0.79602057,High,Month-to-month,53.5,1,DSL,Mailed check
+9112-WSNPU,0,1,0.6972965,High,Month-to-month,70.55,35,Fiber optic,Electronic check
+9127-FHJBZ,0,0,0.032782476,Low,Two year,114.0,72,Fiber optic,Electronic check
+5301-GAUUY,1,1,0.57944214,Medium,Month-to-month,80.35,32,Fiber optic,Bank transfer (automatic)
+2139-FQHLM,0,0,0.40578094,Medium,Month-to-month,89.95,19,Fiber optic,Mailed check
+8325-QRPZR,0,1,0.8138335,High,Month-to-month,75.15,7,Fiber optic,Electronic check
+5129-JLPIS,0,1,0.76862705,High,Month-to-month,105.5,25,Fiber optic,Electronic check
+3796-ENZGF,0,0,0.026820678,Low,Two year,67.25,63,DSL,Mailed check
+6769-DYBQN,1,1,0.546427,Medium,Month-to-month,85.0,46,Fiber optic,Electronic check
+5312-TSZVC,0,0,0.06859892,Low,One year,19.65,15,No,Mailed check
+1205-WNWPJ,1,0,0.4546593,Medium,Month-to-month,59.5,7,DSL,Mailed check
+6328-ZPBGN,1,1,0.92952615,High,Month-to-month,95.15,11,Fiber optic,Bank transfer (automatic)
+3392-EHMNK,0,0,0.19212258,Low,Two year,94.1,67,Fiber optic,Credit card (automatic)
+9224-VTYID,0,0,0.03137764,Low,Two year,90.5,47,DSL,Mailed check
+2843-CQMEG,0,0,0.2706379,Low,Month-to-month,49.7,24,DSL,Mailed check
+4701-AHWMW,1,0,0.19303513,Low,Month-to-month,54.55,55,DSL,Bank transfer (automatic)
+1894-IGFSG,1,1,0.66061133,High,Month-to-month,89.25,22,Fiber optic,Electronic check
+0665-XHDJU,0,0,0.16832395,Low,Two year,99.4,72,Fiber optic,Electronic check
+6174-NRBTZ,0,0,0.11125012,Low,One year,30.75,46,DSL,Bank transfer (automatic)
+7067-KSAZT,1,0,0.48135984,Medium,One year,106.25,65,Fiber optic,Electronic check
+1140-UKVZG,0,0,0.23180333,Low,Month-to-month,24.8,17,No,Mailed check
+4248-QPAVC,1,1,0.5882694,Medium,Month-to-month,85.35,17,Fiber optic,Bank transfer (automatic)
+6698-OXETB,0,0,0.023521075,Low,Two year,20.4,11,No,Mailed check
+5574-NXZIU,0,0,0.23676415,Low,Two year,109.2,63,Fiber optic,Credit card (automatic)
+0959-WHOKV,0,0,0.40676388,Medium,One year,99.0,42,Fiber optic,Electronic check
+2458-EOMRE,0,0,0.36000204,Medium,Month-to-month,64.05,11,DSL,Bank transfer (automatic)
+9933-QRGTX,0,0,0.09352762,Low,Two year,97.2,60,Fiber optic,Electronic check
+0690-SRQID,0,0,0.24254183,Low,Month-to-month,19.65,4,No,Mailed check
+1150-WFARN,1,0,0.20270674,Low,Two year,108.75,67,Fiber optic,Credit card (automatic)
+0363-QJVFX,1,0,0.4550488,Medium,Month-to-month,108.15,32,Fiber optic,Credit card (automatic)
+0744-GKNGE,0,0,0.17080139,Low,Month-to-month,86.8,64,Fiber optic,Bank transfer (automatic)
+6685-GBWJZ,0,0,0.06790454,Low,One year,70.8,63,DSL,Credit card (automatic)
+5133-VRSAB,0,0,0.49369833,Medium,Month-to-month,29.35,8,DSL,Mailed check
+5702-KVQRD,0,0,0.032620925,Low,Two year,82.55,71,DSL,Electronic check
+5057-RKGLH,0,0,0.029669905,Low,Two year,20.35,9,No,Mailed check
+9378-FXTIZ,1,0,0.28768504,Low,One year,70.15,54,DSL,Credit card (automatic)
+6710-HSJRD,0,1,0.69482154,High,Month-to-month,114.1,61,Fiber optic,Electronic check
+1074-WVEVG,0,0,0.029544882,Low,One year,20.35,59,No,Mailed check
+0678-RLHVP,0,0,0.43439636,Medium,Two year,105.55,53,Fiber optic,Electronic check
+1820-TQVEV,1,1,0.9328483,High,Month-to-month,69.55,1,Fiber optic,Electronic check
+1635-FJFCC,0,1,0.60833544,High,Month-to-month,44.05,5,DSL,Credit card (automatic)
+0123-CRBRT,0,0,0.016408242,Low,Two year,88.1,61,DSL,Mailed check
+4905-JEFDW,1,0,0.4514853,Medium,One year,41.6,11,DSL,Electronic check
+7401-JIXNM,0,0,0.06540902,Low,Two year,91.3,54,DSL,Credit card (automatic)
+8990-YOZLV,0,0,0.022094587,Low,Two year,66.9,69,DSL,Mailed check
+1092-GANHU,1,1,0.648297,High,Month-to-month,76.65,17,Fiber optic,Electronic check
+5207-PLSTK,0,1,0.7450789,High,Month-to-month,48.75,1,DSL,Mailed check
+2144-BFDSO,0,1,0.542011,Medium,Month-to-month,108.75,50,Fiber optic,Bank transfer (automatic)
+9624-EGDEQ,0,0,0.035400543,Low,Two year,19.8,37,No,Mailed check
+7157-SMCFK,0,0,0.0389696,Low,Two year,19.75,61,No,Mailed check
+4174-LPGTI,1,0,0.1808764,Low,One year,66.5,41,DSL,Bank transfer (automatic)
+9391-DXGGG,0,0,0.2191999,Low,One year,89.15,44,Fiber optic,Credit card (automatic)
+8807-ARQET,0,1,0.59730196,Medium,Month-to-month,40.35,41,DSL,Electronic check
+9644-KVCNC,0,0,0.17506775,Low,One year,92.15,66,Fiber optic,Bank transfer (automatic)
+5736-YEJAX,0,0,0.111236915,Low,Two year,79.45,69,DSL,Credit card (automatic)
+0023-UYUPN,0,0,0.04808848,Low,One year,25.2,50,No,Electronic check
+1915-OAKWD,0,0,0.055936206,Low,One year,19.3,16,No,Bank transfer (automatic)
+8033-VCZGH,0,1,0.57748413,Medium,One year,103.95,50,Fiber optic,Electronic check
+1436-ZMJAN,0,0,0.4414098,Medium,Month-to-month,67.8,10,DSL,Credit card (automatic)
+9507-EXLTT,1,1,0.8971404,High,Month-to-month,79.35,1,Fiber optic,Bank transfer (automatic)
+3966-HRMZA,0,1,0.8029104,High,Month-to-month,75.05,3,Fiber optic,Mailed check
+9586-JGQKH,0,0,0.29727954,Low,Two year,105.4,64,Fiber optic,Bank transfer (automatic)
+9453-PATOS,0,0,0.010903052,Low,Two year,85.1,72,DSL,Mailed check
+8261-GWDBQ,0,0,0.12109478,Low,Two year,116.05,60,Fiber optic,Bank transfer (automatic)
+4813-HQMGZ,0,1,0.8826793,High,Month-to-month,90.25,8,Fiber optic,Electronic check
+2883-ILGWO,0,1,0.6725232,High,Month-to-month,104.9,57,Fiber optic,Bank transfer (automatic)
+5949-HGVJL,0,0,0.3411,Medium,Month-to-month,73.05,26,DSL,Electronic check
+6754-LZUKA,0,0,0.039399102,Low,Two year,80.9,61,DSL,Bank transfer (automatic)
+6198-ZFIOJ,0,1,0.839147,High,Month-to-month,75.6,5,Fiber optic,Electronic check
+7409-KIUTL,1,1,0.92388296,High,Month-to-month,71.0,1,Fiber optic,Electronic check
+4323-SADQS,1,0,0.35603374,Medium,Month-to-month,34.5,7,DSL,Electronic check
+2068-WWXQZ,0,0,0.022004612,Low,Two year,20.05,46,No,Bank transfer (automatic)
+1936-UAFEH,0,0,0.18087062,Low,Two year,110.25,68,Fiber optic,Credit card (automatic)
+5236-PERKL,1,0,0.3418885,Medium,Two year,112.95,57,Fiber optic,Bank transfer (automatic)
+8189-HBVRW,0,1,0.53069353,Medium,Month-to-month,90.8,53,Fiber optic,Electronic check
+1370-GGAWX,0,0,0.4358348,Medium,One year,94.15,46,Fiber optic,Electronic check
+1200-TUZHR,0,1,0.9007034,High,Month-to-month,85.2,8,Fiber optic,Electronic check
+4851-BQDNX,0,0,0.3946417,Medium,One year,85.05,40,Fiber optic,Electronic check
+8319-QBEHW,0,0,0.15122224,Low,One year,39.95,26,DSL,Bank transfer (automatic)
+4250-WAROZ,0,0,0.35723513,Medium,Month-to-month,93.25,60,Fiber optic,Electronic check
+7072-MBHEV,0,1,0.79655665,High,Month-to-month,78.1,11,Fiber optic,Credit card (automatic)
+8245-UMPYT,1,1,0.8727452,High,Month-to-month,96.4,16,Fiber optic,Electronic check
+9522-BNTHX,0,1,0.7511129,High,Month-to-month,56.25,34,DSL,Electronic check
+9646-NMHXE,0,0,0.019583061,Low,Two year,19.65,47,No,Mailed check
+1062-LHZOD,1,1,0.90667903,High,Month-to-month,69.9,1,Fiber optic,Mailed check
+1035-IPQPU,0,1,0.6479504,High,Month-to-month,103.5,63,Fiber optic,Electronic check
+8024-XNAFQ,0,0,0.023707652,Low,Two year,107.4,72,Fiber optic,Bank transfer (automatic)
+7205-BAIAD,0,0,0.02589401,Low,Two year,20.6,40,No,Bank transfer (automatic)
+8083-YTZES,1,1,0.8565798,High,Month-to-month,74.35,4,Fiber optic,Electronic check
+4919-IKATY,1,1,0.7766954,High,Month-to-month,84.5,5,Fiber optic,Electronic check
+8975-SKGRX,0,0,0.07962826,Low,Two year,116.1,71,Fiber optic,Bank transfer (automatic)
+4029-HPFVY,0,1,0.78804815,High,Month-to-month,70.3,3,Fiber optic,Mailed check
+3519-ZKXGG,1,1,0.9001859,High,Month-to-month,75.85,3,Fiber optic,Electronic check
+5214-CHIWJ,0,0,0.030452888,Low,One year,20.3,27,No,Mailed check
+0936-NQLJU,0,0,0.024298456,Low,Two year,20.65,41,No,Credit card (automatic)
+8873-GLDMH,0,1,0.7839382,High,Month-to-month,73.85,6,Fiber optic,Mailed check
+7952-OBOYL,0,1,0.7810835,High,Month-to-month,89.85,3,Fiber optic,Mailed check
+5334-JLAXU,0,0,0.32965627,Medium,Month-to-month,94.1,60,Fiber optic,Credit card (automatic)
+7529-ZDFXI,0,1,0.64313495,High,Month-to-month,89.85,57,Fiber optic,Electronic check
+4735-ASGMA,1,1,0.82100743,High,Month-to-month,98.35,26,Fiber optic,Electronic check
+2338-BQEZT,0,0,0.25266105,Low,Month-to-month,50.55,55,DSL,Credit card (automatic)
+1493-AMTIE,1,1,0.6000525,High,Month-to-month,20.2,1,No,Bank transfer (automatic)
+2676-SSLTO,0,0,0.07126844,Low,Two year,66.15,49,DSL,Bank transfer (automatic)
+5876-HZVZM,1,0,0.3123124,Medium,Month-to-month,55.9,6,DSL,Credit card (automatic)
+8375-DKEBR,1,1,0.9399166,High,Month-to-month,69.6,1,Fiber optic,Electronic check
+7776-QGYJC,0,0,0.45854387,Medium,Month-to-month,81.5,39,Fiber optic,Bank transfer (automatic)
+2866-IKBTM,0,1,0.6351602,High,Month-to-month,19.55,1,No,Mailed check
+0214-JHPFW,0,0,0.035803493,Low,Two year,57.8,70,DSL,Bank transfer (automatic)
+3334-CTHOL,1,1,0.6823462,High,Month-to-month,49.95,1,DSL,Bank transfer (automatic)
+7470-MCQTK,1,1,0.63164175,High,Month-to-month,48.75,13,DSL,Bank transfer (automatic)
+0016-QLJIS,0,0,0.023179773,Low,Two year,90.45,65,DSL,Mailed check
+5956-YHHRX,0,1,0.88249135,High,Month-to-month,104.35,21,Fiber optic,Electronic check
+3933-DQPWX,0,0,0.038690254,Low,Two year,39.7,50,DSL,Credit card (automatic)
+7750-EYXWZ,0,0,0.42405728,Medium,One year,60.65,12,DSL,Electronic check
+9040-KZVWO,0,0,0.11408924,Low,One year,75.5,26,Fiber optic,Bank transfer (automatic)
+3677-IYRBF,1,1,0.856507,High,Month-to-month,30.4,2,DSL,Electronic check
+4501-UYKBC,0,0,0.27972928,Low,One year,69.1,46,DSL,Credit card (automatic)
+0345-XMMUG,0,0,0.40059304,Medium,Two year,108.9,46,Fiber optic,Credit card (automatic)
+0310-MVLET,1,1,0.6048321,High,Month-to-month,99.15,61,Fiber optic,Electronic check
+4521-YEEHE,0,1,0.79196674,High,Month-to-month,88.85,18,Fiber optic,Electronic check
+6429-SHBCB,0,0,0.29762292,Low,Month-to-month,69.6,19,DSL,Mailed check
+9283-LZQOH,1,1,0.7469062,High,Month-to-month,74.4,13,Fiber optic,Credit card (automatic)
+3372-CDXFJ,0,0,0.08810042,Low,One year,24.5,13,No,Bank transfer (automatic)
+7075-BNDVQ,0,1,0.5776773,Medium,Month-to-month,35.0,4,DSL,Mailed check
+4056-QHXHZ,0,0,0.028750252,Low,Two year,107.45,72,Fiber optic,Mailed check
+5351-QESIO,0,1,0.74005437,High,Month-to-month,24.2,1,DSL,Mailed check
+3374-LXDEV,1,1,0.7126441,High,Month-to-month,89.4,13,Fiber optic,Electronic check
+1087-UDSIH,1,0,0.43846953,Medium,Month-to-month,19.6,3,No,Mailed check
+3916-NRPAP,0,1,0.8349295,High,Month-to-month,85.7,3,Fiber optic,Credit card (automatic)
+6969-MVBAI,0,1,0.91532534,High,Month-to-month,90.1,9,Fiber optic,Electronic check
+6319-IEJWJ,1,1,0.75623524,High,Month-to-month,90.2,20,Fiber optic,Electronic check
+7912-SYRQT,1,1,0.8273185,High,Month-to-month,75.1,7,Fiber optic,Bank transfer (automatic)
+5539-TMZLF,1,1,0.9395173,High,Month-to-month,69.75,1,Fiber optic,Electronic check
+2985-FMWYF,0,1,0.84492457,High,Month-to-month,93.5,23,Fiber optic,Electronic check
+9359-JANWS,0,0,0.029314013,Low,Two year,58.9,65,DSL,Credit card (automatic)
+3620-EHIMZ,0,0,0.03545668,Low,Two year,19.35,52,No,Mailed check
+4026-SKKHW,0,1,0.59856635,Medium,Month-to-month,50.25,3,DSL,Mailed check
+8622-ZLFKO,0,1,0.8871152,High,Month-to-month,90.75,6,Fiber optic,Electronic check
+3496-LFSZU,0,1,0.8082889,High,Month-to-month,70.5,4,Fiber optic,Electronic check
+7398-LXGYX,0,0,0.41780016,Medium,Month-to-month,84.8,44,Fiber optic,Credit card (automatic)
+3452-ABWRL,0,1,0.62939525,High,Month-to-month,86.05,47,Fiber optic,Credit card (automatic)
+7351-MHQVU,0,0,0.41275984,Medium,Month-to-month,50.95,6,DSL,Credit card (automatic)
+4060-LDNLU,0,1,0.90175325,High,Month-to-month,96.2,7,Fiber optic,Electronic check
+4648-YPBTM,0,0,0.055726398,Low,Two year,73.9,53,DSL,Bank transfer (automatic)
+8660-BUETV,0,1,0.68146807,High,Month-to-month,44.75,3,DSL,Mailed check
+1345-GKDZZ,0,0,0.30520162,Medium,Month-to-month,19.55,6,No,Mailed check
+4112-LUEIZ,1,1,0.84657854,High,Month-to-month,89.5,10,Fiber optic,Electronic check
+5419-KLXBN,1,1,0.5756328,Medium,Month-to-month,89.15,25,Fiber optic,Bank transfer (automatic)
+6233-HXJMX,0,1,0.5808067,Medium,Month-to-month,89.3,45,Fiber optic,Credit card (automatic)
+7398-SKNQZ,0,1,0.89205927,High,Month-to-month,94.9,3,Fiber optic,Electronic check
+5712-PTIWW,1,1,0.76220816,High,Month-to-month,79.85,2,Fiber optic,Electronic check
+2673-ZALNP,0,0,0.075398244,Low,One year,19.9,7,No,Mailed check
+6212-ATMLK,0,1,0.8103897,High,Month-to-month,95.7,50,Fiber optic,Electronic check
+9402-ROUMJ,0,0,0.28406435,Low,One year,100.25,67,Fiber optic,Bank transfer (automatic)
+0256-LTHVJ,1,1,0.6502924,High,Month-to-month,81.05,28,Fiber optic,Electronic check
+4785-QRJHC,1,0,0.2065757,Low,One year,59.9,46,DSL,Bank transfer (automatic)
+4999-IEZLT,0,0,0.051301047,Low,One year,29.45,66,DSL,Credit card (automatic)
+7868-BGSZA,0,0,0.23935176,Low,One year,80.2,43,DSL,Electronic check
+4237-RLAQD,1,1,0.78033346,High,Month-to-month,45.85,1,DSL,Mailed check
+1171-TYKUR,0,0,0.30729997,Medium,Month-to-month,25.4,47,No,Electronic check
+6248-BSHKG,0,0,0.01792546,Low,One year,20.4,61,No,Mailed check
+6016-LVTJQ,0,0,0.114371255,Low,Month-to-month,20.65,34,No,Mailed check
+4667-OHGKG,1,1,0.558372,Medium,Month-to-month,19.3,1,No,Mailed check
+7781-EWARA,0,0,0.15676409,Low,One year,60.35,70,DSL,Electronic check
+5730-DBDSI,0,0,0.020584768,Low,Two year,19.7,66,No,Bank transfer (automatic)
+9692-TUSXH,1,1,0.7786273,High,Month-to-month,96.05,18,Fiber optic,Electronic check
+0519-DRGTI,0,0,0.13073416,Low,Month-to-month,20.35,20,No,Mailed check
+3551-GAEGL,0,0,0.1135831,Low,One year,30.4,34,DSL,Bank transfer (automatic)
+5442-BHQNG,0,1,0.8093784,High,Month-to-month,70.35,2,Fiber optic,Electronic check
+5600-KTXFM,0,1,0.7728521,High,Month-to-month,69.95,2,Fiber optic,Mailed check
+4445-KWOKW,0,0,0.11558836,Low,One year,60.15,42,DSL,Bank transfer (automatic)
+2959-MJHIC,1,1,0.8409874,High,Month-to-month,80.35,4,Fiber optic,Electronic check
+4587-VVTOX,1,1,0.9050204,High,Month-to-month,105.3,6,Fiber optic,Electronic check
+7105-MXJLL,0,0,0.24423088,Low,One year,60.7,26,DSL,Mailed check
+1143-NMNQJ,1,1,0.90902615,High,Month-to-month,85.7,2,Fiber optic,Electronic check
+6845-RGTYS,1,1,0.6102643,High,Month-to-month,98.75,47,Fiber optic,Electronic check
+3521-HTQTV,0,0,0.084085494,Low,Two year,26.1,34,No,Bank transfer (automatic)
+3207-OYBWH,1,1,0.6177931,High,Month-to-month,95.25,57,Fiber optic,Bank transfer (automatic)
+2324-AALNO,0,0,0.070038155,Low,One year,24.55,48,No,Bank transfer (automatic)
+1222-LRYKO,0,0,0.3124863,Medium,Month-to-month,26.35,6,No,Mailed check
+0015-UOCOJ,0,1,0.62963974,High,Month-to-month,48.2,7,DSL,Electronic check
+7465-ZZRVX,0,1,0.9294385,High,Month-to-month,70.35,1,Fiber optic,Electronic check
+2954-PIBKO,0,0,0.040403392,Low,Two year,64.15,69,DSL,Credit card (automatic)
+5006-MXVRN,0,0,0.018908808,Low,Two year,20.7,39,No,Credit card (automatic)
+8914-RBTSB,1,1,0.6361209,High,Month-to-month,93.8,31,Fiber optic,Electronic check
+5445-PZWGX,1,0,0.2073927,Low,One year,102.0,62,Fiber optic,Electronic check
+8413-YNHNV,0,0,0.031127274,Low,Two year,90.65,69,DSL,Mailed check
+3932-CMDTD,1,1,0.57596004,Medium,One year,105.65,4,Fiber optic,Electronic check
+0301-KOBTQ,0,0,0.027365362,Low,Two year,20.05,32,No,Bank transfer (automatic)
+9565-DJPIB,1,1,0.8577119,High,Month-to-month,89.6,4,Fiber optic,Mailed check
+9591-YVTEB,0,1,0.5333428,Medium,Month-to-month,44.85,55,DSL,Electronic check
+3063-QFSZL,1,1,0.84112656,High,Month-to-month,55.4,1,DSL,Electronic check
+6917-YACBP,0,1,0.50427794,Medium,Month-to-month,89.75,59,Fiber optic,Electronic check
+2277-VWCNI,0,1,0.7287372,High,Month-to-month,48.75,4,DSL,Mailed check
+9894-QMIMJ,0,0,0.1256315,Low,One year,55.8,23,DSL,Bank transfer (automatic)
+8224-KDLKN,0,0,0.016103517,Low,Two year,25.0,72,No,Bank transfer (automatic)
+2995-YWTCD,0,0,0.045164198,Low,Two year,24.9,19,No,Bank transfer (automatic)
+8028-PNXHQ,0,0,0.056354687,Low,Two year,24.25,62,No,Bank transfer (automatic)
+4376-KFVRS,0,0,0.050183102,Low,Two year,114.05,72,Fiber optic,Credit card (automatic)
+8258-GSTJK,1,1,0.8881899,High,Month-to-month,77.0,3,Fiber optic,Electronic check
+6661-HBGWL,1,1,0.7960321,High,Month-to-month,104.75,42,Fiber optic,Bank transfer (automatic)
+1849-RJYIG,0,1,0.5564997,Medium,Month-to-month,60.0,8,DSL,Electronic check
+0886-QGENL,1,1,0.6533016,High,Month-to-month,101.25,27,Fiber optic,Electronic check
+4415-IJZTP,1,1,0.9438766,High,Month-to-month,74.5,1,Fiber optic,Electronic check
+5419-CONWX,1,1,0.8901088,High,Month-to-month,99.8,4,Fiber optic,Credit card (automatic)
+6124-ACRHJ,0,1,0.6339722,High,Month-to-month,19.75,1,No,Mailed check
+0376-YMCJC,1,1,0.6476895,High,Month-to-month,90.6,23,Fiber optic,Electronic check
+9039-RBEEE,1,0,0.15235806,Low,Month-to-month,48.95,39,DSL,Credit card (automatic)
+9369-XFEHK,1,1,0.6374018,High,Month-to-month,80.6,33,Fiber optic,Bank transfer (automatic)
+6345-ULYRW,1,0,0.24991193,Low,One year,88.4,44,Fiber optic,Mailed check
+7180-PISOG,1,1,0.9391952,High,Month-to-month,74.5,1,Fiber optic,Electronic check
+8069-RHUXK,0,0,0.017709289,Low,Two year,35.7,67,DSL,Credit card (automatic)
+5696-JVVQY,0,0,0.071065165,Low,Two year,70.1,48,DSL,Credit card (automatic)
+0895-LNKRC,0,0,0.07432083,Low,One year,19.45,6,No,Mailed check
+2778-OCLGR,1,1,0.55250233,Medium,Month-to-month,39.1,24,DSL,Bank transfer (automatic)
+5702-SKUOB,0,0,0.36952472,Medium,Month-to-month,19.6,4,No,Mailed check
+6260-XLACS,0,0,0.31428218,Medium,One year,19.7,4,No,Mailed check
+5820-PTRYM,0,0,0.11722238,Low,One year,68.45,56,DSL,Credit card (automatic)
+9251-AWQGT,0,0,0.01894212,Low,Two year,20.0,48,No,Mailed check
+1716-LSAMB,0,0,0.03163061,Low,Two year,54.65,45,DSL,Bank transfer (automatic)
+5829-NVSQN,0,0,0.15027958,Low,One year,68.75,23,DSL,Bank transfer (automatic)
+5605-XNWEN,0,0,0.009174078,Low,Two year,25.0,72,No,Bank transfer (automatic)
+9986-BONCE,1,0,0.2978318,Low,Month-to-month,20.95,4,No,Bank transfer (automatic)
+8849-GYOKR,1,0,0.4618073,Medium,One year,106.55,54,Fiber optic,Bank transfer (automatic)
+7130-YXBRO,0,0,0.48020995,Medium,Month-to-month,111.45,48,Fiber optic,Bank transfer (automatic)
+2495-INZWQ,1,1,0.808795,High,Month-to-month,44.55,4,DSL,Electronic check
+7351-KYHQH,0,1,0.55785996,Medium,Month-to-month,64.95,7,DSL,Electronic check
+1376-HHBDV,0,0,0.21875548,Low,Month-to-month,48.8,30,DSL,Mailed check
+9465-RWMXL,1,1,0.7377813,High,Month-to-month,78.9,32,Fiber optic,Electronic check
+7969-FFOWG,0,0,0.012587563,Low,Two year,19.9,65,No,Mailed check
+2599-CZABP,0,0,0.24727486,Low,One year,44.6,14,DSL,Electronic check
+1757-TCATG,0,0,0.04738743,Low,One year,20.05,35,No,Bank transfer (automatic)
+7181-BQYBV,1,1,0.91828793,High,Month-to-month,102.45,1,Fiber optic,Electronic check
+7571-YXDAD,1,1,0.82848805,High,Month-to-month,74.9,2,Fiber optic,Credit card (automatic)
+3807-XHCJH,0,1,0.72191626,High,Month-to-month,20.0,1,No,Electronic check
+9318-NKNFC,1,0,0.18497649,Low,Month-to-month,18.85,1,No,Mailed check
+9602-WCXPI,0,0,0.051221874,Low,One year,20.15,50,No,Credit card (automatic)
+9050-IKDZA,0,1,0.8621822,High,Month-to-month,81.5,2,Fiber optic,Mailed check
+8443-ZRDBZ,1,1,0.8824431,High,Month-to-month,76.05,4,Fiber optic,Electronic check
+8739-WWKDU,1,1,0.79353714,High,Month-to-month,89.5,25,Fiber optic,Electronic check
+6896-SRVYQ,0,1,0.6803071,High,Month-to-month,73.85,44,Fiber optic,Electronic check
+2023-VQFDL,0,0,0.43800616,Medium,Month-to-month,19.0,18,No,Electronic check
+6968-GMKPR,0,1,0.5383434,Medium,Month-to-month,81.55,55,Fiber optic,Electronic check
+5555-RNPGT,0,0,0.3351502,Medium,Month-to-month,24.8,10,No,Credit card (automatic)
+5955-EPOAZ,0,0,0.18561813,Low,Month-to-month,20.95,6,No,Mailed check
+1448-PWKYE,1,1,0.9146003,High,Month-to-month,80.0,1,Fiber optic,Electronic check
+3413-CSSTH,0,0,0.31661418,Medium,Month-to-month,55.7,41,DSL,Bank transfer (automatic)
+7018-FPXHH,0,0,0.031350963,Low,Two year,59.8,56,DSL,Bank transfer (automatic)
+2798-NYLMZ,0,0,0.41320032,Medium,Two year,108.55,71,Fiber optic,Credit card (automatic)
+8194-PEEBY,0,0,0.04508185,Low,One year,19.9,24,No,Mailed check
+6048-QBXKL,0,1,0.80826473,High,Month-to-month,56.55,2,DSL,Credit card (automatic)
+5356-CSVSQ,0,1,0.7520004,High,Month-to-month,64.6,3,DSL,Electronic check
+3612-YVGSJ,0,0,0.019129757,Low,Two year,24.45,71,No,Credit card (automatic)
+9025-ZRPVR,1,0,0.08498794,Low,Month-to-month,18.95,9,No,Mailed check
+6646-VRFOL,1,1,0.8194671,High,Month-to-month,103.85,53,Fiber optic,Electronic check
+1036-GUDCL,0,0,0.11132621,Low,Month-to-month,79.05,60,DSL,Credit card (automatic)
+0020-INWCK,0,0,0.11694289,Low,Two year,95.75,71,Fiber optic,Credit card (automatic)
+4824-GUCBY,0,1,0.57444763,Medium,Month-to-month,81.7,22,Fiber optic,Electronic check
+7666-WKRON,1,0,0.10284415,Low,Two year,80.45,39,Fiber optic,Electronic check
+6608-QQLVK,1,1,0.8551876,High,Month-to-month,50.5,1,DSL,Electronic check
+4378-BZYFP,0,0,0.04380287,Low,One year,20.5,17,No,Mailed check
+4633-MKHYU,0,1,0.8312892,High,Month-to-month,88.4,9,Fiber optic,Mailed check
+8637-XJIVR,1,1,0.73004216,High,Month-to-month,78.95,12,Fiber optic,Electronic check
+3778-FOAQW,0,0,0.076083705,Low,One year,20.15,24,No,Mailed check
+2057-ZBLPD,1,1,0.7784825,High,Month-to-month,86.5,21,Fiber optic,Electronic check
+0931-MHTEM,0,0,0.4236357,Medium,One year,100.05,54,Fiber optic,Credit card (automatic)
+1240-KNSEZ,1,1,0.6674625,High,Month-to-month,20.1,1,No,Mailed check
+1963-VAUKV,1,1,0.52773964,Medium,Month-to-month,20.4,1,No,Mailed check
+9227-YBAXE,0,0,0.029057706,Low,Two year,82.5,65,DSL,Bank transfer (automatic)
+5049-MUBWG,0,0,0.1672998,Low,One year,75.0,26,DSL,Bank transfer (automatic)
+6821-BUXUX,1,1,0.82865477,High,Month-to-month,96.65,13,Fiber optic,Electronic check
+7594-LZNWR,0,1,0.51059127,Medium,Month-to-month,69.15,34,Fiber optic,Credit card (automatic)
+2509-TFPJU,0,0,0.0064285626,Low,Two year,25.75,72,No,Credit card (automatic)
+3908-BLSYF,1,1,0.82075673,High,Month-to-month,83.9,6,Fiber optic,Electronic check
+4873-ILOLJ,1,1,0.762946,High,Month-to-month,90.35,24,Fiber optic,Electronic check
+3594-IVHJZ,0,0,0.25424582,Low,Month-to-month,20.45,2,No,Mailed check
+6218-KNUBD,0,0,0.47786313,Medium,Month-to-month,59.45,6,DSL,Electronic check
+5067-WJEUN,0,0,0.01628771,Low,Two year,54.2,67,DSL,Bank transfer (automatic)
+3780-DDGSE,0,0,0.32509372,Medium,Month-to-month,76.05,35,DSL,Electronic check
+3689-MOZGR,0,1,0.5766432,Medium,Month-to-month,31.2,29,DSL,Electronic check
+4223-BKEOR,0,0,0.14215533,Low,One year,64.85,21,DSL,Mailed check
+0064-YIJGF,0,1,0.521528,Medium,Month-to-month,75.75,27,Fiber optic,Bank transfer (automatic)
+0616-ATFGB,1,1,0.91461277,High,Month-to-month,25.05,1,DSL,Electronic check
+3967-KXAPS,0,0,0.0762718,Low,Two year,92.3,72,DSL,Credit card (automatic)
+5339-TJFEK,0,0,0.4399731,Medium,Month-to-month,105.5,62,Fiber optic,Electronic check
+0365-BZUWY,0,1,0.86466044,High,Month-to-month,102.55,17,Fiber optic,Electronic check
+1236-WFCDV,1,1,0.7229788,High,Month-to-month,90.45,14,Fiber optic,Credit card (automatic)
+0330-IVZHA,1,1,0.782929,High,Month-to-month,69.95,5,Fiber optic,Electronic check
+6910-HADCM,1,1,0.9191748,High,Month-to-month,76.35,1,Fiber optic,Electronic check
+3094-JOJAI,0,0,0.46433493,Medium,Month-to-month,74.15,18,Fiber optic,Mailed check
+3594-UVONA,1,0,0.24906412,Low,One year,85.95,35,DSL,Credit card (automatic)
+2138-VFAPZ,0,0,0.042378373,Low,Two year,19.7,14,No,Mailed check
+4641-FROLU,0,0,0.012358098,Low,Two year,19.3,30,No,Mailed check
+7018-WBJNK,0,1,0.7045143,High,Month-to-month,78.3,13,Fiber optic,Credit card (automatic)
+0083-PIVIK,0,0,0.19704436,Low,One year,81.25,64,DSL,Electronic check
+1429-UYJSV,0,0,0.0958571,Low,One year,19.7,12,No,Mailed check
+7115-IRDHS,0,0,0.007731473,Low,Two year,24.65,72,No,Bank transfer (automatic)
+3164-YAXFY,0,1,0.5937688,Medium,Month-to-month,53.75,57,DSL,Electronic check
+0916-KNFAJ,0,0,0.025603337,Low,Two year,69.9,61,DSL,Mailed check
+3244-CQPHU,0,0,0.039537277,Low,Two year,110.1,72,Fiber optic,Bank transfer (automatic)
+6445-TNRXS,0,0,0.19326527,Low,Two year,114.7,68,Fiber optic,Bank transfer (automatic)
+3211-ILJTT,1,1,0.56517637,Medium,Month-to-month,70.4,17,Fiber optic,Bank transfer (automatic)
+3890-RTCMS,0,0,0.29939407,Low,Month-to-month,49.45,16,DSL,Mailed check
+3724-BSCVH,0,0,0.052897476,Low,One year,20.45,10,No,Mailed check
+1768-ZAIFU,1,1,0.9279058,High,Month-to-month,25.2,1,DSL,Electronic check
+7432-FFVAR,0,0,0.15683009,Low,One year,90.95,46,Fiber optic,Bank transfer (automatic)
+6682-QJDGB,1,0,0.20133704,Low,Month-to-month,55.25,40,DSL,Mailed check
+3635-QQRQD,0,0,0.02520659,Low,Two year,20.05,62,No,Credit card (automatic)
+7251-XFOIL,0,0,0.25836077,Low,Month-to-month,89.2,61,Fiber optic,Mailed check
+3926-CUQZX,1,1,0.7579728,High,Month-to-month,45.1,1,DSL,Bank transfer (automatic)
+9972-VAFJJ,0,0,0.45467046,Medium,One year,94.0,53,Fiber optic,Electronic check
+6542-LWGXJ,0,1,0.7274323,High,Month-to-month,25.0,3,DSL,Mailed check
+7343-EOBEU,0,1,0.53117067,Medium,Month-to-month,23.6,3,No,Mailed check
+5899-OUVKV,0,1,0.72277796,High,Month-to-month,94.5,31,Fiber optic,Electronic check
+1074-AMIOH,0,0,0.38079625,Medium,Month-to-month,108.25,53,Fiber optic,Bank transfer (automatic)
+9152-AMKAK,0,0,0.054395396,Low,Two year,80.25,6,DSL,Mailed check
+6833-JMZYP,0,1,0.818775,High,Month-to-month,94.0,15,Fiber optic,Credit card (automatic)
+3398-GCPMU,0,0,0.045670174,Low,Two year,89.55,72,DSL,Credit card (automatic)
+3391-JSQEW,0,0,0.27457824,Low,Month-to-month,50.15,40,DSL,Mailed check
+7239-HZZCX,1,1,0.62761235,High,Month-to-month,19.75,1,No,Mailed check
+2908-ZTPNF,0,0,0.35391387,Medium,Month-to-month,34.85,36,DSL,Bank transfer (automatic)
+6979-ZNSFF,1,1,0.91337913,High,Month-to-month,87.05,8,Fiber optic,Electronic check
+0018-NYROU,0,1,0.8237187,High,Month-to-month,68.95,5,Fiber optic,Electronic check
+6797-UCJHZ,0,0,0.39460337,Medium,One year,104.6,66,Fiber optic,Credit card (automatic)
+2364-UFROM,0,0,0.13696837,Low,One year,70.4,30,DSL,Electronic check
+0909-SDHNU,0,0,0.4222711,Medium,Month-to-month,29.8,7,DSL,Mailed check
+6861-XWTWQ,1,1,0.94873405,High,Month-to-month,99.25,7,Fiber optic,Electronic check
+1139-WUOAH,0,0,0.038006447,Low,Two year,53.35,57,DSL,Credit card (automatic)
+7250-EQKIY,1,1,0.79027486,High,Month-to-month,50.45,1,DSL,Mailed check
+7754-IXRMC,0,1,0.75013536,High,Month-to-month,45.35,1,DSL,Mailed check
+6284-AHOOQ,1,1,0.57505006,Medium,Month-to-month,90.5,22,Fiber optic,Bank transfer (automatic)
+8821-XNHVZ,1,1,0.91561776,High,Month-to-month,80.05,1,Fiber optic,Mailed check
+4546-FOKWR,0,1,0.7716167,High,Month-to-month,74.75,16,Fiber optic,Credit card (automatic)
+4979-HPRFL,0,0,0.051445916,Low,Two year,24.15,56,No,Bank transfer (automatic)
+3352-ALMCK,0,1,0.7900165,High,Month-to-month,102.65,40,Fiber optic,Mailed check
+1045-LTCYT,0,0,0.15712756,Low,Month-to-month,21.05,8,No,Credit card (automatic)
+4489-SNOJF,1,0,0.34556702,Medium,Month-to-month,72.25,35,DSL,Electronic check
+4191-XOVOM,0,1,0.55460435,Medium,Month-to-month,105.4,63,Fiber optic,Electronic check
+1848-LBZHY,0,0,0.4471076,Medium,Month-to-month,50.3,7,DSL,Bank transfer (automatic)
+9092-GDZKO,0,0,0.4271932,Medium,Month-to-month,24.85,22,No,Credit card (automatic)
+9761-XUJWD,0,1,0.53352976,Medium,Month-to-month,65.6,5,DSL,Bank transfer (automatic)
+8059-UDZFY,0,1,0.7298052,High,Month-to-month,105.35,33,Fiber optic,Bank transfer (automatic)
+3378-AJRAO,0,0,0.11453518,Low,One year,24.85,44,No,Electronic check
+7047-FWEYA,0,1,0.5288624,Medium,One year,103.15,46,Fiber optic,Electronic check
+5268-DSMNQ,0,0,0.19585368,Low,One year,97.95,62,Fiber optic,Credit card (automatic)
+9940-RHLFB,1,1,0.9191748,High,Month-to-month,75.3,1,Fiber optic,Electronic check
+2606-RMDHZ,1,1,0.59202206,Medium,Month-to-month,30.5,6,DSL,Credit card (automatic)
+0818-OCPZO,1,1,0.71889764,High,Month-to-month,81.45,27,Fiber optic,Electronic check
+5120-ZBLAI,0,0,0.19280311,Low,One year,75.7,50,DSL,Bank transfer (automatic)
+4631-OACRM,1,1,0.809354,High,Month-to-month,79.4,15,Fiber optic,Electronic check
+8593-WHYHV,1,1,0.908547,High,Month-to-month,85.3,3,Fiber optic,Electronic check
+4234-XTNEA,0,1,0.8697262,High,Month-to-month,79.95,2,Fiber optic,Electronic check
+3234-VKACU,0,1,0.649908,High,Month-to-month,70.3,2,DSL,Electronic check
+3745-HRPHI,0,0,0.024504941,Low,Two year,54.65,66,DSL,Bank transfer (automatic)
+7554-AKDQF,0,0,0.47541326,Medium,Month-to-month,45.65,6,DSL,Mailed check
+3197-ARFOY,0,1,0.74723274,High,Month-to-month,105.0,19,Fiber optic,Mailed check
+9121-PHQSR,0,1,0.7812104,High,Month-to-month,85.05,16,Fiber optic,Credit card (automatic)
+1587-FKLZB,1,1,0.7643226,High,Month-to-month,99.5,66,Fiber optic,Credit card (automatic)
+8058-DMYRU,0,1,0.7611812,High,Month-to-month,90.05,54,Fiber optic,Electronic check
+1264-FUHCX,0,0,0.17400381,Low,One year,56.3,49,DSL,Credit card (automatic)
+4343-EJVQB,0,1,0.6406794,High,Month-to-month,74.35,7,Fiber optic,Mailed check
+6713-OKOMC,0,0,0.46461815,Medium,Month-to-month,29.75,10,DSL,Mailed check
+3649-JPUGY,0,0,0.026271185,Low,Two year,88.6,72,DSL,Bank transfer (automatic)
+1004-NOZNR,0,0,0.2408752,Low,One year,94.8,56,Fiber optic,Credit card (automatic)
+9364-YKUVW,0,0,0.21566047,Low,Month-to-month,19.8,15,No,Mailed check
+6194-HBGQN,0,0,0.12643056,Low,One year,81.15,51,DSL,Credit card (automatic)
+3229-USWAR,0,0,0.20859455,Low,One year,79.95,34,DSL,Bank transfer (automatic)
+3658-KIBGF,1,1,0.74268633,High,Month-to-month,54.9,1,DSL,Electronic check
+9643-YBLUR,0,0,0.484329,Medium,Month-to-month,69.05,9,DSL,Credit card (automatic)
+1845-ZLLIG,0,1,0.6881885,High,Month-to-month,50.15,1,DSL,Mailed check
+0524-IAVZO,1,1,0.7532201,High,Month-to-month,85.0,30,Fiber optic,Electronic check
+5692-FPTAH,1,1,0.78153914,High,Month-to-month,45.4,1,DSL,Mailed check
+6317-YPKDH,1,1,0.6768989,High,Month-to-month,29.95,1,DSL,Bank transfer (automatic)
+9823-EALYC,0,0,0.021473471,Low,Two year,80.85,72,DSL,Bank transfer (automatic)
+9167-APMXZ,0,1,0.6473417,High,Month-to-month,84.15,22,Fiber optic,Bank transfer (automatic)
+8246-SHFGA,0,0,0.18673389,Low,Month-to-month,21.1,17,No,Credit card (automatic)
+3413-DHLPB,0,0,0.3842895,Medium,Month-to-month,103.75,60,Fiber optic,Bank transfer (automatic)
+2533-QVMSK,1,0,0.2806425,Low,Two year,94.1,61,Fiber optic,Electronic check
+8751-EDEKA,0,1,0.5019001,Medium,Month-to-month,89.9,28,Fiber optic,Credit card (automatic)
+2696-RZVZW,0,0,0.040524587,Low,Two year,25.05,68,No,Credit card (automatic)
+0484-JPBRU,0,0,0.23801553,Low,Month-to-month,25.25,41,No,Bank transfer (automatic)
+8849-AYPTR,0,1,0.6731228,High,Month-to-month,91.25,33,Fiber optic,Electronic check
+8671-KKKOS,0,0,0.37009045,Medium,Month-to-month,45.55,46,DSL,Electronic check
+2824-MYYBN,0,1,0.764036,High,Month-to-month,95.25,37,Fiber optic,Electronic check
+1112-CUNAO,1,1,0.76342094,High,Month-to-month,89.85,15,Fiber optic,Electronic check
+9221-OTIVJ,1,1,0.8662261,High,Month-to-month,104.85,14,Fiber optic,Electronic check
+5364-EVNIB,1,1,0.7507657,High,Month-to-month,79.8,13,Fiber optic,Electronic check
+3439-GVUSX,0,1,0.77112275,High,Month-to-month,24.4,1,DSL,Mailed check
+1052-QJIBV,0,0,0.008788819,Low,Two year,19.9,71,No,Credit card (automatic)
+4504-YOULA,0,0,0.22111943,Low,Month-to-month,59.45,35,DSL,Credit card (automatic)
+6292-TOSSS,0,0,0.07459258,Low,Two year,24.9,50,No,Bank transfer (automatic)
+9480-BQJEI,0,0,0.15035106,Low,One year,92.3,62,Fiber optic,Bank transfer (automatic)
+1043-UXOVO,0,0,0.056701906,Low,Two year,113.15,71,Fiber optic,Credit card (automatic)
+4660-IRIBM,0,1,0.5123329,Medium,Month-to-month,87.9,18,Fiber optic,Mailed check
+9483-GCPWE,0,0,0.051883098,Low,One year,20.1,9,No,Mailed check
+0835-DUUIQ,0,0,0.0568915,Low,One year,21.05,24,No,Bank transfer (automatic)
+4077-HWUYD,0,0,0.014369026,Low,Two year,87.55,72,DSL,Bank transfer (automatic)
+6848-HJTXY,0,0,0.02534787,Low,Two year,19.45,64,No,Credit card (automatic)
+4184-VODJZ,0,0,0.26302692,Low,One year,91.35,63,Fiber optic,Electronic check
+7663-RGWBC,1,1,0.76392823,High,Month-to-month,44.15,1,DSL,Mailed check
+0221-NAUXK,0,0,0.074443206,Low,One year,19.95,10,No,Bank transfer (automatic)
+8378-LKJAF,0,1,0.6450235,High,Month-to-month,101.15,38,Fiber optic,Credit card (automatic)
+6857-VWJDT,1,1,0.94187593,High,Month-to-month,95.65,1,Fiber optic,Mailed check
+0114-IGABW,0,0,0.02583059,Low,Two year,58.25,71,DSL,Bank transfer (automatic)
+3177-LASXD,1,1,0.91324574,High,Month-to-month,71.35,1,Fiber optic,Electronic check
+5928-QLDHB,0,1,0.82292575,High,Month-to-month,76.25,9,Fiber optic,Electronic check
+2408-PSJVE,0,0,0.18456484,Low,Month-to-month,61.9,44,DSL,Mailed check
+6661-EIPZC,0,0,0.25198624,Low,Month-to-month,29.5,48,DSL,Credit card (automatic)
+6388-TABGU,0,0,0.029004673,Low,One year,56.15,62,DSL,Bank transfer (automatic)
+0581-MDMPW,0,1,0.6312179,High,Month-to-month,88.95,24,Fiber optic,Credit card (automatic)
+2466-NEJOJ,0,0,0.29656965,Low,Month-to-month,19.65,8,No,Credit card (automatic)
+9971-ZWPBF,0,1,0.572834,Medium,Month-to-month,108.9,34,Fiber optic,Electronic check
+5650-YLIBA,0,1,0.7188887,High,Month-to-month,81.15,31,Fiber optic,Electronic check
+3977-QCRSL,0,0,0.3086795,Medium,Month-to-month,20.15,5,No,Mailed check
+4626-OZDTJ,0,0,0.2076086,Low,One year,78.65,51,DSL,Credit card (automatic)
+4869-EPIUS,0,0,0.2750015,Low,One year,80.9,56,Fiber optic,Electronic check
+6164-HAQTX,0,0,0.04628549,Low,Two year,53.95,71,DSL,Bank transfer (automatic)
+7668-XCFYV,0,1,0.8514849,High,Month-to-month,92.55,17,Fiber optic,Electronic check
+7209-JCUDS,1,1,0.89323467,High,Month-to-month,94.9,10,Fiber optic,Electronic check
+3923-CSIHK,1,1,0.6148739,High,Month-to-month,71.05,50,Fiber optic,Electronic check
+1816-FLZDK,0,1,0.6468266,High,Month-to-month,29.15,1,DSL,Mailed check
+0347-UBKUZ,0,0,0.21495163,Low,Month-to-month,19.9,15,No,Mailed check
+6345-FZOQH,0,0,0.013085611,Low,Two year,19.9,69,No,Mailed check
+9337-SRRNI,0,0,0.017629031,Low,Two year,25.3,66,No,Credit card (automatic)
+5458-CQJTA,1,0,0.026836272,Low,Two year,74.8,65,DSL,Bank transfer (automatic)
+4250-ZBWLV,1,1,0.51635593,Medium,One year,108.45,68,Fiber optic,Electronic check
+7576-JMYWV,0,1,0.5144774,Medium,Month-to-month,110.2,46,Fiber optic,Electronic check
+9298-WGMRW,0,0,0.02998197,Low,Two year,115.5,72,Fiber optic,Bank transfer (automatic)
+4779-ZGICK,0,0,0.031050658,Low,Two year,23.55,48,No,Mailed check
+6434-TTGJP,0,0,0.028455254,Low,Two year,53.7,10,DSL,Credit card (automatic)
+2079-FBMZK,1,1,0.72885895,High,Month-to-month,69.25,6,Fiber optic,Mailed check
+7537-CBQUZ,0,0,0.34792158,Medium,Month-to-month,109.4,63,Fiber optic,Bank transfer (automatic)
+1265-ZFOSD,0,0,0.021527443,Low,Two year,81.3,64,DSL,Mailed check
+2955-BJZHG,1,1,0.67142004,High,Month-to-month,80.85,17,Fiber optic,Electronic check
+7273-TEFQD,1,1,0.86357886,High,Month-to-month,41.15,3,DSL,Electronic check
+4189-NAKJS,0,0,0.11161034,Low,One year,51.55,26,DSL,Credit card (automatic)
+2150-OEGBV,0,0,0.03206696,Low,One year,20.1,27,No,Bank transfer (automatic)
+3546-GHEAE,0,0,0.050140243,Low,Two year,19.45,7,No,Mailed check
+3244-DCJWY,1,1,0.92989933,High,Month-to-month,70.25,1,Fiber optic,Electronic check
+4072-IPYLT,0,0,0.23541118,Low,Month-to-month,51.05,36,DSL,Credit card (automatic)
+8739-QOTTN,0,0,0.22366019,Low,Month-to-month,20.35,2,No,Mailed check
+4634-JLRJT,0,1,0.5763172,Medium,Month-to-month,20.35,1,No,Mailed check
+6036-TTFYU,0,0,0.2893031,Low,Month-to-month,19.6,16,No,Mailed check
+5847-MXBEO,0,0,0.037305117,Low,One year,20.3,22,No,Mailed check
+5371-VYLSX,0,1,0.5692459,Medium,Month-to-month,83.4,50,Fiber optic,Electronic check
+2055-PDADH,1,1,0.82663333,High,Month-to-month,70.4,3,Fiber optic,Electronic check
+7124-UGSUR,1,0,0.37398168,Medium,One year,104.4,61,Fiber optic,Credit card (automatic)
+3258-SANFR,0,1,0.52650255,Medium,Month-to-month,44.7,6,DSL,Credit card (automatic)
+2761-XECQW,0,1,0.68851095,High,Month-to-month,43.35,8,DSL,Mailed check
+5297-MDOIR,0,0,0.074408405,Low,One year,81.15,63,Fiber optic,Credit card (automatic)
+4713-LZDRV,1,1,0.8906006,High,Month-to-month,79.6,2,Fiber optic,Electronic check
+3466-RITXD,0,1,0.5197325,Medium,Month-to-month,92.4,26,Fiber optic,Credit card (automatic)
+0187-QSXOE,0,1,0.8630728,High,Month-to-month,89.0,7,Fiber optic,Electronic check
+3982-DQLUS,0,0,0.34060866,Medium,Month-to-month,85.75,65,Fiber optic,Electronic check
+0422-UXFAP,0,1,0.56536674,Medium,One year,98.85,51,Fiber optic,Electronic check
+9851-KIELU,1,1,0.61978674,High,Month-to-month,110.1,10,Fiber optic,Electronic check
+4803-LBYPN,0,0,0.04773194,Low,Month-to-month,20.8,34,No,Mailed check
+1156-ZFYDO,0,1,0.6920435,High,Month-to-month,19.75,1,No,Electronic check
+5950-AAAGJ,0,1,0.5745872,Medium,Month-to-month,84.3,18,Fiber optic,Bank transfer (automatic)
+4686-UXDML,0,1,0.7513228,High,Month-to-month,99.85,21,Fiber optic,Credit card (automatic)
+5469-CTCWN,1,0,0.30049863,Medium,One year,106.0,61,Fiber optic,Electronic check
+9979-RGMZT,0,1,0.58672714,Medium,One year,94.05,7,Fiber optic,Mailed check
+7623-TRNQN,1,1,0.5030974,Medium,Month-to-month,49.9,1,DSL,Mailed check
+5542-TBBWB,0,1,0.9328483,High,Month-to-month,69.9,1,Fiber optic,Electronic check
+8535-SFUTN,0,1,0.60139424,High,Month-to-month,106.45,61,Fiber optic,Electronic check
+9494-BDNNC,0,0,0.36281976,Medium,One year,95.3,66,Fiber optic,Electronic check
+9450-TRJUU,0,1,0.7118484,High,Month-to-month,83.15,35,Fiber optic,Electronic check
+5759-RCVCB,1,1,0.7353592,High,Month-to-month,35.2,3,DSL,Credit card (automatic)
+2832-SCUCO,0,0,0.3838621,Medium,Month-to-month,19.9,2,No,Electronic check
+8887-IPQNC,0,0,0.49128646,Medium,Month-to-month,44.25,7,DSL,Mailed check
+8495-PRWFH,0,1,0.51350987,Medium,Month-to-month,55.65,42,DSL,Electronic check
+6537-QLGEX,0,1,0.6691654,High,Month-to-month,38.9,16,DSL,Electronic check
+2606-PKWJB,0,0,0.052751012,Low,One year,40.25,40,DSL,Mailed check
+1272-ILHFG,0,0,0.08632043,Low,One year,19.65,15,No,Mailed check
+8805-JNRAZ,0,1,0.608634,High,Month-to-month,49.2,2,DSL,Mailed check
+7695-PKLCZ,0,0,0.012158516,Low,Two year,20.5,68,No,Credit card (automatic)
+7005-CCBKV,1,1,0.84278166,High,Month-to-month,84.4,6,Fiber optic,Electronic check
+2305-MRGLV,0,0,0.28013918,Low,Month-to-month,76.55,28,Fiber optic,Bank transfer (automatic)
+3705-PSNGL,1,0,0.041036192,Low,One year,20.4,45,No,Electronic check
+2266-SJNAT,0,0,0.22245386,Low,One year,109.15,72,Fiber optic,Credit card (automatic)
+5821-MMEIL,0,0,0.08230945,Low,Two year,19.9,57,No,Bank transfer (automatic)
+6518-LGAOV,1,1,0.7633249,High,Month-to-month,105.0,38,Fiber optic,Electronic check
+7742-MYPGI,0,0,0.3731643,Medium,Month-to-month,48.8,6,DSL,Mailed check
+2061-VVFST,0,0,0.2078645,Low,Month-to-month,19.5,37,No,Bank transfer (automatic)
+6821-JPCDC,0,0,0.4428957,Medium,One year,97.05,48,Fiber optic,Electronic check
+0436-TWFFZ,0,0,0.031860515,Low,Two year,85.25,67,DSL,Mailed check
+8970-ANWXO,0,0,0.34399462,Medium,One year,73.75,23,DSL,Mailed check
+3453-RTHJQ,0,1,0.7934894,High,Month-to-month,69.1,6,Fiber optic,Electronic check
+1069-QJOEE,0,0,0.046588324,Low,One year,19.9,25,No,Electronic check
+0281-CNTZX,0,0,0.018854124,Low,Two year,19.95,63,No,Bank transfer (automatic)
+0058-EVZWM,0,0,0.37348425,Medium,Month-to-month,89.8,55,Fiber optic,Bank transfer (automatic)
+6008-NAIXK,0,1,0.5555526,Medium,One year,55.45,54,DSL,Electronic check
+3191-CSNMG,0,1,0.8341238,High,Month-to-month,80.7,3,Fiber optic,Electronic check
+0909-SELIE,0,0,0.029015774,Low,Two year,80.8,61,DSL,Bank transfer (automatic)
+4237-CLSMM,0,0,0.2971318,Low,Month-to-month,20.0,2,No,Mailed check
+5196-SGOAK,1,1,0.9234911,High,Month-to-month,75.7,1,Fiber optic,Electronic check
+6543-CPZMK,1,0,0.48159093,Medium,Month-to-month,29.95,9,DSL,Electronic check
+8272-ONJLV,0,1,0.6583609,High,One year,95.7,12,Fiber optic,Electronic check
+3313-QKNKB,1,0,0.2553891,Low,One year,85.55,59,Fiber optic,Electronic check
+3675-EQOZA,0,0,0.19248176,Low,Month-to-month,20.65,5,No,Bank transfer (automatic)
+7893-IXHRQ,1,1,0.5567081,Medium,Month-to-month,20.55,1,No,Electronic check
+3190-FZATL,0,0,0.2494669,Low,Month-to-month,19.95,14,No,Mailed check
+2731-GJRDG,0,1,0.5155704,Medium,One year,109.55,32,Fiber optic,Bank transfer (automatic)
+0076-LVEPS,0,0,0.14494748,Low,Month-to-month,45.0,29,DSL,Mailed check
+2252-NKNSI,0,0,0.032948453,Low,Two year,85.15,52,DSL,Mailed check
+2897-DOVND,0,1,0.82855415,High,Month-to-month,69.8,2,Fiber optic,Electronic check
+4465-VDKIQ,0,1,0.6038529,High,Month-to-month,77.8,18,Fiber optic,Electronic check
+8652-YHIYU,0,0,0.13527623,Low,One year,79.5,16,Fiber optic,Credit card (automatic)
+8016-NCFVO,0,1,0.51277554,Medium,Month-to-month,116.5,55,Fiber optic,Electronic check
+8626-PTQGE,0,0,0.021768719,Low,Two year,60.05,69,DSL,Bank transfer (automatic)
+9685-WKZGT,1,1,0.8397212,High,Month-to-month,74.95,14,Fiber optic,Electronic check
+7502-BNYGS,0,0,0.37142524,Medium,Month-to-month,69.1,46,DSL,Credit card (automatic)
+1619-YWUBB,0,0,0.036334842,Low,Two year,24.95,68,No,Credit card (automatic)
+0851-DFJKB,0,0,0.42741397,Medium,Month-to-month,58.95,15,DSL,Electronic check
+7009-PCARS,0,0,0.051603984,Low,One year,19.1,55,No,Bank transfer (automatic)
+9258-CNWAC,0,0,0.054620106,Low,Two year,113.65,71,Fiber optic,Credit card (automatic)
+0106-GHRQR,0,0,0.38221473,Medium,Month-to-month,71.4,16,DSL,Bank transfer (automatic)
+2984-RGEYA,0,0,0.01976869,Low,Two year,19.75,69,No,Bank transfer (automatic)
+0513-RBGPE,0,0,0.03451252,Low,Two year,62.8,37,DSL,Credit card (automatic)
+9122-UMROB,0,0,0.48319605,Medium,Month-to-month,20.3,1,No,Mailed check
+1265-HVPZB,0,0,0.09250512,Low,One year,66.4,59,DSL,Credit card (automatic)
+2604-IJPDU,0,1,0.7513595,High,Month-to-month,96.55,20,Fiber optic,Electronic check
+8879-XUAHX,0,0,0.08796676,Low,Two year,116.25,71,Fiber optic,Electronic check
+0975-UYDTX,0,0,0.1512976,Low,One year,90.1,26,DSL,Credit card (automatic)
+5281-BUZGT,1,1,0.63214743,High,Month-to-month,90.85,36,Fiber optic,Electronic check
+8314-HTWVE,0,0,0.032892838,Low,Two year,19.85,7,No,Mailed check
+1038-RQOST,0,0,0.112946145,Low,Month-to-month,20.6,19,No,Mailed check
+5889-JTMUL,1,1,0.73625916,High,Month-to-month,95.05,50,Fiber optic,Electronic check
+9747-DDZOS,1,1,0.8633282,High,Month-to-month,73.5,1,Fiber optic,Bank transfer (automatic)
+2748-MYRVK,1,0,0.29095426,Low,One year,99.9,63,Fiber optic,Bank transfer (automatic)
+7654-YWJUF,0,0,0.0825047,Low,One year,84.25,43,Fiber optic,Bank transfer (automatic)
+6823-SIDFQ,0,0,0.0086348215,Low,One year,18.25,28,No,Credit card (automatic)
+7463-IFMQU,0,0,0.009218325,Low,Two year,20.05,72,No,Bank transfer (automatic)
+1658-XUHBX,0,1,0.52992934,Medium,Month-to-month,88.75,59,Fiber optic,Credit card (automatic)
+8993-PHFWD,1,1,0.77014655,High,Month-to-month,25.25,3,DSL,Electronic check
+2700-LUEVA,0,0,0.4286071,Medium,Month-to-month,20.75,1,No,Credit card (automatic)
+1965-DDBWU,1,1,0.7008174,High,Month-to-month,89.05,16,Fiber optic,Credit card (automatic)
+1768-HNVGJ,0,0,0.33310342,Medium,Month-to-month,70.05,45,DSL,Electronic check
+3858-XHYJO,0,1,0.5212529,Medium,One year,105.75,40,Fiber optic,Bank transfer (automatic)
+2284-VFLKH,0,0,0.3894608,Medium,One year,99.25,49,Fiber optic,Credit card (automatic)
+2609-IAICY,1,1,0.94812316,High,Month-to-month,77.15,1,Fiber optic,Electronic check
+8930-XOTDP,0,0,0.3716383,Medium,Month-to-month,55.95,18,DSL,Mailed check
+2434-EEVDB,0,0,0.15154679,Low,Two year,94.6,64,Fiber optic,Credit card (automatic)
+4973-MGTON,0,0,0.017118767,Low,Two year,84.4,71,DSL,Credit card (automatic)
+6227-HWPWX,1,1,0.57361865,Medium,Month-to-month,69.0,15,Fiber optic,Bank transfer (automatic)
+1541-ETJZO,1,1,0.67994714,High,Month-to-month,62.05,1,DSL,Mailed check
+3682-YEUWS,0,0,0.29664335,Low,Month-to-month,24.4,10,No,Mailed check
+6953-PBDIN,0,0,0.0589092,Low,Two year,72.95,70,DSL,Bank transfer (automatic)
+6332-FBZRI,0,0,0.101557046,Low,One year,69.35,67,DSL,Credit card (automatic)
+0754-EEBDC,0,0,0.067760885,Low,Two year,19.9,4,No,Mailed check
+2535-PBCGC,0,0,0.029218158,Low,Two year,64.55,70,DSL,Bank transfer (automatic)
+5167-ZFFMM,1,1,0.93466914,High,Month-to-month,90.85,1,Fiber optic,Credit card (automatic)
+2659-VXMWZ,1,0,0.22427505,Low,One year,111.3,67,Fiber optic,Electronic check
+0506-LVNGN,1,1,0.81661934,High,Month-to-month,75.55,5,Fiber optic,Credit card (automatic)
+0323-XWWTN,0,0,0.10066497,Low,Two year,26.4,3,No,Mailed check
+3679-XASPY,0,1,0.74043924,High,Month-to-month,19.45,1,No,Electronic check
+4092-OFQZS,0,0,0.029397486,Low,One year,20.65,20,No,Mailed check
+3227-WLKLI,0,0,0.03464039,Low,Two year,91.55,65,DSL,Bank transfer (automatic)
+0447-BEMNG,1,0,0.28082585,Low,Month-to-month,45.3,48,DSL,Bank transfer (automatic)
+5968-HYJRZ,0,0,0.041690975,Low,Two year,24.55,47,No,Mailed check
+3331-HQDTW,1,0,0.49959913,Medium,Month-to-month,109.8,34,Fiber optic,Mailed check
+4102-HLENU,0,0,0.023796638,Low,Two year,65.65,67,DSL,Mailed check
+0946-FKYTX,0,0,0.17067865,Low,One year,30.1,52,DSL,Mailed check
+8869-LIHMK,0,0,0.09907562,Low,Two year,115.1,64,Fiber optic,Bank transfer (automatic)
+1853-ARAAQ,0,0,0.37517235,Medium,Month-to-month,50.35,26,DSL,Credit card (automatic)
+2159-TURXX,0,0,0.282472,Low,Month-to-month,20.05,5,No,Credit card (automatic)
+6270-OMFIW,1,0,0.34877408,Medium,One year,94.4,60,Fiber optic,Electronic check
+1230-QAJDW,0,1,0.7185315,High,Month-to-month,65.25,3,DSL,Mailed check
+0723-VSOBE,0,0,0.37809208,Medium,One year,34.2,45,DSL,Electronic check
+2585-KTFRE,0,1,0.57229143,Medium,Month-to-month,70.45,1,DSL,Bank transfer (automatic)
+7130-VTEWQ,1,1,0.8558364,High,Month-to-month,75.75,8,Fiber optic,Electronic check
+8406-LNMHF,0,0,0.10901906,Low,One year,82.95,59,Fiber optic,Credit card (automatic)
+7410-KTVFV,1,0,0.33904472,Medium,Month-to-month,49.55,18,DSL,Mailed check
+7074-STDCN,0,0,0.38919693,Medium,Month-to-month,40.6,39,DSL,Electronic check
+6980-IMXXE,0,0,0.010898503,Low,Two year,20.2,69,No,Bank transfer (automatic)
+0486-HECZI,1,1,0.5766304,Medium,Month-to-month,96.75,55,Fiber optic,Electronic check
+7569-NMZYQ,0,0,0.038643762,Low,Two year,118.75,72,Fiber optic,Bank transfer (automatic)
+4819-HJPIW,0,0,0.34316456,Medium,Month-to-month,25.15,18,DSL,Mailed check
+8309-PPCED,0,0,0.06780331,Low,Two year,110.45,72,Fiber optic,Bank transfer (automatic)
+7312-XSBAT,0,1,0.7437409,High,Month-to-month,49.75,1,DSL,Electronic check
+6598-RFFVI,1,0,0.12174283,Low,One year,19.3,2,No,Credit card (automatic)
+9945-PSVIP,0,0,0.017531876,Low,Two year,18.7,25,No,Mailed check
+9531-NSBMR,0,0,0.024016283,Low,One year,19.25,36,No,Bank transfer (automatic)
+9796-MVYXX,0,0,0.15329227,Low,Two year,39.7,14,DSL,Mailed check
+9512-UIBFX,1,1,0.55093706,Medium,Month-to-month,95.15,18,Fiber optic,Mailed check
+1657-DYMBM,0,0,0.07994232,Low,Two year,19.9,53,No,Credit card (automatic)
+5204-QZXPU,1,1,0.73524547,High,Month-to-month,39.65,19,DSL,Electronic check
+9348-ROUAI,0,0,0.033335973,Low,Two year,90.3,59,DSL,Credit card (automatic)
+5288-AHOUP,0,1,0.77311355,High,Month-to-month,78.5,11,Fiber optic,Electronic check
+4724-WXVWF,0,1,0.53556204,Medium,Month-to-month,95.4,48,Fiber optic,Electronic check
+0222-CNVPT,0,0,0.33854556,Medium,Month-to-month,48.8,52,DSL,Credit card (automatic)
+5447-VYTKW,0,0,0.12874131,Low,Month-to-month,53.45,27,DSL,Mailed check
+9208-OLGAQ,0,1,0.7525203,High,Month-to-month,84.95,18,Fiber optic,Electronic check
+6770-XUAGN,1,1,0.6987542,High,Month-to-month,21.0,1,No,Electronic check
+7801-KICAO,0,1,0.76683563,High,Month-to-month,74.15,18,Fiber optic,Electronic check
+8929-KSWIH,0,0,0.22182986,Low,Two year,99.3,25,Fiber optic,Bank transfer (automatic)
+6599-GZWCM,0,0,0.2018515,Low,One year,74.65,13,Fiber optic,Mailed check
+2952-QAYZF,1,1,0.8795893,High,Month-to-month,85.3,5,Fiber optic,Electronic check
+2737-YNGYW,1,1,0.8496763,High,Month-to-month,80.55,2,Fiber optic,Electronic check
+1929-ZCBHE,0,0,0.06964029,Low,One year,40.3,47,DSL,Electronic check
+1166-PQLGG,0,0,0.0069744443,Low,Two year,19.55,72,No,Bank transfer (automatic)
+2650-GYRYL,0,0,0.026606752,Low,One year,19.45,33,No,Bank transfer (automatic)
+5627-TVBPP,0,0,0.027343327,Low,One year,20.1,35,No,Credit card (automatic)
+7445-WMRBW,0,0,0.12457276,Low,One year,73.85,48,DSL,Bank transfer (automatic)
+3223-DWFIO,0,1,0.7961258,High,Month-to-month,69.35,4,Fiber optic,Electronic check
+6704-UTUKK,0,1,0.57538176,Medium,Month-to-month,45.9,29,DSL,Electronic check
+8397-MVTAZ,1,1,0.7972228,High,Month-to-month,100.05,34,Fiber optic,Electronic check
+8882-TLVRW,0,0,0.011588363,Low,Two year,39.1,69,DSL,Mailed check
+8409-WQJUX,0,0,0.26253864,Low,One year,54.2,25,DSL,Electronic check
+8218-FFJDS,0,0,0.012469819,Low,Two year,86.4,72,DSL,Bank transfer (automatic)
+3769-MHZNV,0,0,0.023065098,Low,Two year,20.1,33,No,Mailed check
+3301-VKTGC,0,0,0.08877899,Low,One year,85.5,68,Fiber optic,Bank transfer (automatic)
+7242-EDTYC,0,0,0.016463496,Low,Two year,19.55,44,No,Bank transfer (automatic)
+2817-LVCPP,0,0,0.024601363,Low,Two year,19.4,50,No,Credit card (automatic)
+3460-TJBWI,0,0,0.03402143,Low,Two year,24.2,24,No,Mailed check
+0377-JBKKT,0,0,0.1268643,Low,Month-to-month,57.95,22,DSL,Mailed check
+8915-NNTRC,0,0,0.043904897,Low,Two year,107.7,72,Fiber optic,Credit card (automatic)
+6856-RAURS,0,1,0.82014495,High,Month-to-month,74.9,2,Fiber optic,Mailed check
+0487-CRLZF,0,0,0.056770008,Low,Two year,74.45,49,DSL,Bank transfer (automatic)
+3807-BPOMJ,0,0,0.38354996,Medium,One year,94.75,55,Fiber optic,Electronic check
+3006-XIMLN,1,1,0.9202806,High,Month-to-month,94.2,2,Fiber optic,Bank transfer (automatic)
+3750-CKVKH,1,1,0.80509686,High,Month-to-month,67.75,2,Fiber optic,Electronic check
+2391-SOORI,1,1,0.54750085,Medium,Month-to-month,49.35,4,DSL,Electronic check
+6338-AVWCY,1,1,0.7754316,High,Month-to-month,40.15,3,DSL,Mailed check
+3237-AJGEH,1,0,0.48973066,Medium,Month-to-month,31.0,3,DSL,Mailed check
+8695-ARGXZ,0,1,0.7620524,High,Month-to-month,75.55,34,Fiber optic,Electronic check
+6559-RAKOZ,0,1,0.5032535,Medium,One year,97.95,49,Fiber optic,Electronic check
+1867-BDVFH,1,1,0.83144844,High,Month-to-month,74.35,11,Fiber optic,Electronic check
+3597-YASZG,0,0,0.1863998,Low,Two year,104.45,70,Fiber optic,Bank transfer (automatic)
+6483-OATDN,0,0,0.39501458,Medium,Month-to-month,51.3,8,DSL,Credit card (automatic)
+7531-GQHME,0,0,0.2505187,Low,Month-to-month,20.05,12,No,Credit card (automatic)
+8840-DQLGN,1,1,0.5616774,Medium,Month-to-month,100.5,35,Fiber optic,Bank transfer (automatic)
+6583-SZVGP,0,0,0.46579954,Medium,Two year,108.1,48,Fiber optic,Bank transfer (automatic)
+8182-PNAGI,1,0,0.3108644,Medium,Month-to-month,50.25,12,DSL,Bank transfer (automatic)
+0315-LVCRK,0,1,0.75231594,High,Month-to-month,84.8,11,Fiber optic,Electronic check
+1853-UDXBW,1,1,0.92779887,High,Month-to-month,70.0,1,Fiber optic,Electronic check
+2930-UOTMB,1,0,0.20777874,Low,Month-to-month,65.25,31,DSL,Credit card (automatic)
+6023-YEBUP,1,1,0.9241185,High,Month-to-month,100.95,3,Fiber optic,Electronic check
+2995-UPRYS,1,0,0.396545,Medium,One year,99.2,40,Fiber optic,Credit card (automatic)
+7520-HQWJU,0,0,0.13280055,Low,Month-to-month,67.45,66,DSL,Bank transfer (automatic)
+0691-NIKRI,0,1,0.5822187,Medium,One year,105.95,40,Fiber optic,Credit card (automatic)
+3665-JATSN,0,1,0.7048535,High,Month-to-month,39.7,19,DSL,Electronic check
+8620-RJPZN,0,1,0.60015863,High,Month-to-month,20.7,1,No,Electronic check
+6993-YCOBK,0,0,0.14562026,Low,Two year,110.6,60,Fiber optic,Electronic check
+8922-NPKBJ,0,0,0.02156339,Low,Two year,19.35,42,No,Mailed check
+4942-VZZOM,0,0,0.10026178,Low,One year,66.15,64,DSL,Credit card (automatic)
+4701-LKOZD,0,0,0.05360447,Low,Two year,89.75,70,DSL,Credit card (automatic)
+7621-VPNET,0,0,0.48876503,Medium,Month-to-month,85.9,42,Fiber optic,Credit card (automatic)
+1345-ZUKID,0,0,0.08498217,Low,One year,19.35,14,No,Mailed check
+7839-NUIAA,0,0,0.14187276,Low,Month-to-month,59.8,61,DSL,Electronic check
+2758-RNWXS,0,0,0.23987238,Low,One year,89.2,35,Fiber optic,Electronic check
+8280-MQRQN,1,1,0.80629903,High,Month-to-month,50.45,1,DSL,Mailed check
+5813-UECBU,1,1,0.64238876,High,Month-to-month,83.85,33,Fiber optic,Credit card (automatic)
+6139-ZZRBQ,0,0,0.026519764,Low,Two year,20.05,64,No,Bank transfer (automatic)
+6972-SNKKW,0,0,0.1462052,Low,Month-to-month,20.0,6,No,Mailed check
+8433-WPJTV,0,0,0.37169942,Medium,One year,103.9,65,Fiber optic,Bank transfer (automatic)
+7924-GJZFI,0,1,0.61694604,High,Month-to-month,69.3,25,Fiber optic,Electronic check
+4674-HGNUA,0,0,0.021239525,Low,Two year,89.9,71,DSL,Credit card (automatic)
+5380-WJKOV,1,1,0.7314707,High,Month-to-month,106.35,34,Fiber optic,Electronic check
+8111-RKSPX,1,1,0.8456009,High,Month-to-month,72.2,4,Fiber optic,Bank transfer (automatic)
+6319-QSUSR,0,0,0.31057113,Medium,Month-to-month,19.7,11,No,Credit card (automatic)
+1722-LDZJS,0,0,0.14334628,Low,One year,20.2,53,No,Credit card (automatic)
+9279-CJEOJ,0,1,0.79214126,High,Month-to-month,95.4,21,Fiber optic,Bank transfer (automatic)
+3768-NLUBH,1,1,0.6358983,High,Month-to-month,100.6,57,Fiber optic,Electronic check
+2674-MIAHT,0,1,0.8684368,High,Month-to-month,80.3,4,Fiber optic,Mailed check
+4452-QIIEB,0,0,0.46570593,Medium,Month-to-month,43.9,7,DSL,Mailed check
+6061-GWWAV,0,0,0.103226334,Low,One year,70.2,41,DSL,Mailed check
+8393-DLHGA,1,1,0.76064175,High,Month-to-month,95.9,25,Fiber optic,Electronic check
+4678-DVQEO,1,1,0.79560626,High,Month-to-month,52.2,1,DSL,Electronic check
+4709-LKHYG,0,0,0.035607204,Low,One year,20.0,29,No,Electronic check
+4423-JWZJN,0,0,0.15966582,Low,One year,90.25,64,Fiber optic,Credit card (automatic)
+9209-NWPGU,0,0,0.15063561,Low,One year,65.4,44,DSL,Electronic check
+7252-NTGSS,0,1,0.75013536,High,Month-to-month,45.15,1,DSL,Mailed check
+2599-CIPQE,0,0,0.08571444,Low,Two year,109.3,71,Fiber optic,Credit card (automatic)
+2987-BJXIK,0,0,0.04663838,Low,Two year,84.7,70,DSL,Mailed check
+5562-YJQGT,0,0,0.4368019,Medium,Month-to-month,20.35,2,No,Credit card (automatic)
+0923-PNFUB,1,1,0.7836755,High,Month-to-month,83.75,3,Fiber optic,Electronic check
+3077-RSNTJ,0,0,0.18538663,Low,Month-to-month,19.7,6,No,Mailed check
+5828-AVIPD,1,0,0.4741982,Medium,One year,100.95,19,Fiber optic,Electronic check
+6137-NICCO,0,1,0.8725352,High,Month-to-month,94.05,6,Fiber optic,Mailed check
+8430-TWCBX,0,0,0.03586983,Low,One year,20.7,49,No,Credit card (automatic)
+0327-WFZSY,0,0,0.40303543,Medium,One year,100.0,39,Fiber optic,Electronic check
+3096-WPXBT,0,0,0.19963653,Low,One year,100.7,61,Fiber optic,Credit card (automatic)
+9895-VFOXH,0,1,0.7759068,High,Month-to-month,24.4,1,DSL,Mailed check
+3363-EWLGO,0,0,0.3086795,Medium,Month-to-month,19.95,5,No,Mailed check
+3594-KADLU,0,1,0.61315334,High,Month-to-month,35.1,3,DSL,Mailed check
+0397-ZXWQF,0,0,0.012113337,Low,Two year,20.5,67,No,Bank transfer (automatic)
+7524-VRLPL,0,0,0.16288966,Low,Two year,74.1,69,DSL,Credit card (automatic)
+8096-LOIST,0,1,0.6169497,High,Month-to-month,56.2,19,DSL,Electronic check
+2272-JKMSI,0,0,0.29917142,Low,One year,110.8,62,Fiber optic,Electronic check
+0928-JMXNP,0,1,0.8289607,High,Month-to-month,29.9,4,DSL,Electronic check
+9274-UARKJ,0,1,0.76864606,High,Month-to-month,83.2,15,Fiber optic,Bank transfer (automatic)
+1485-YDHMM,0,0,0.4484414,Medium,Month-to-month,93.25,52,Fiber optic,Bank transfer (automatic)
+4211-MMAZN,1,1,0.5061108,Medium,Month-to-month,20.25,1,No,Mailed check
+4706-DGAHW,0,1,0.8878228,High,Month-to-month,45.2,1,DSL,Electronic check
+5472-CVMDX,0,0,0.015983328,Low,Two year,38.9,68,DSL,Mailed check
+4464-JCOLN,1,0,0.07501548,Low,One year,19.85,2,No,Mailed check
+1545-JFUML,0,0,0.1421183,Low,Two year,99.0,71,Fiber optic,Electronic check
+9391-TTOYH,0,0,0.16651258,Low,Month-to-month,19.5,23,No,Mailed check
+0603-TPMIB,0,0,0.022416674,Low,Two year,25.45,59,No,Mailed check
+9367-TCUYN,0,0,0.15351914,Low,Month-to-month,20.1,12,No,Mailed check
+4075-JFPGR,0,0,0.2674688,Low,One year,93.5,51,Fiber optic,Electronic check
+0412-UCCNP,0,0,0.06921104,Low,Two year,59.2,55,DSL,Electronic check
+2519-LBNQL,0,1,0.5042708,Medium,One year,104.35,60,Fiber optic,Electronic check
+1809-DMJHQ,1,1,0.55715525,Medium,Month-to-month,46.0,5,DSL,Mailed check
+2322-VCZHZ,0,1,0.54412925,Medium,Month-to-month,90.0,23,Fiber optic,Electronic check
+3058-WQDRE,0,1,0.6262755,High,Month-to-month,25.15,13,DSL,Bank transfer (automatic)
+8166-ZZTFS,1,0,0.13929722,Low,Two year,80.55,66,DSL,Bank transfer (automatic)
+3126-WQMGH,0,0,0.3456956,Medium,Month-to-month,52.15,49,DSL,Credit card (automatic)
+4892-VLANZ,1,1,0.62761235,High,Month-to-month,19.8,1,No,Mailed check
+9576-ANLXO,1,1,0.7767153,High,Month-to-month,69.55,3,Fiber optic,Bank transfer (automatic)
+9975-GPKZU,0,0,0.014583332,Low,Two year,19.75,46,No,Credit card (automatic)
+9194-GFVOI,0,0,0.048582602,Low,Two year,84.35,42,DSL,Credit card (automatic)
+1113-IUJYX,1,0,0.39268142,Medium,One year,105.95,14,Fiber optic,Mailed check
+8711-LOBKY,0,0,0.038612295,Low,Two year,19.85,59,No,Mailed check
+3858-VOBET,1,1,0.7111837,High,Month-to-month,74.95,23,Fiber optic,Electronic check
+9030-QGZNL,0,0,0.038822394,Low,Two year,20.85,8,No,Mailed check
+0628-CNQRM,1,0,0.09360718,Low,One year,67.5,22,DSL,Bank transfer (automatic)
+1735-XMJVH,0,0,0.4135104,Medium,Month-to-month,19.35,8,No,Mailed check
+9057-SIHCH,1,1,0.93600416,High,Month-to-month,96.6,3,Fiber optic,Electronic check
+7073-QETQY,0,0,0.018368645,Low,One year,20.35,66,No,Electronic check
+7722-VJRQD,0,0,0.008849709,Low,Two year,60.95,72,DSL,Bank transfer (automatic)
+6158-HDPXZ,0,1,0.7675482,High,Month-to-month,25.35,1,DSL,Mailed check
+3722-WPXTK,1,1,0.93867666,High,Month-to-month,88.35,1,Fiber optic,Electronic check
+6164-HXUGH,0,0,0.33202362,Medium,Month-to-month,19.85,6,No,Mailed check
+1302-TPUBN,0,0,0.03202482,Low,Two year,19.35,66,No,Bank transfer (automatic)
+9592-ERDKV,0,0,0.17874868,Low,One year,79.25,37,DSL,Mailed check
+8445-DNBAE,0,1,0.7508528,High,Month-to-month,50.05,1,DSL,Electronic check
+4547-LYTDD,1,1,0.69436514,High,Month-to-month,72.65,16,Fiber optic,Electronic check
+8221-HVAYI,0,0,0.0356703,Low,Two year,69.15,35,DSL,Credit card (automatic)
+5176-OLSKT,0,0,0.031858444,Low,Two year,66.9,66,DSL,Bank transfer (automatic)
+6048-UWKAL,0,0,0.17527512,Low,Two year,105.4,69,Fiber optic,Credit card (automatic)
+7617-EYGLW,0,1,0.68729526,High,Month-to-month,19.45,1,No,Electronic check
+0685-MLYYM,1,1,0.81675977,High,Month-to-month,70.75,2,Fiber optic,Electronic check
+6777-TGHTM,1,0,0.47764447,Medium,One year,106.95,53,Fiber optic,Credit card (automatic)
+4011-ARPHK,0,0,0.18599808,Low,Month-to-month,50.35,27,DSL,Mailed check
+8495-LJDFO,0,0,0.28729546,Low,Month-to-month,108.95,64,Fiber optic,Bank transfer (automatic)
+2961-VNFKL,0,0,0.008799019,Low,Two year,25.95,71,No,Credit card (automatic)
+4531-AUZNK,0,0,0.19640696,Low,One year,95.15,51,Fiber optic,Mailed check
+6711-VTNRE,1,1,0.6347856,High,Month-to-month,87.55,36,Fiber optic,Electronic check
+8097-VBQTZ,0,0,0.09656052,Low,Month-to-month,69.9,54,DSL,Mailed check
+0732-OCQOC,0,0,0.022699993,Low,Two year,25.05,52,No,Bank transfer (automatic)
+1471-GIQKQ,0,1,0.574553,Medium,Month-to-month,49.95,1,DSL,Electronic check
+1355-KUSBG,0,1,0.62548906,High,Month-to-month,48.8,7,DSL,Electronic check
+3325-FUYCG,1,0,0.4038629,Medium,One year,106.1,28,Fiber optic,Electronic check
+9107-UKCKY,0,0,0.29370466,Low,One year,79.8,61,DSL,Electronic check
+0480-KYJVA,0,0,0.0077082715,Low,Two year,24.25,72,No,Credit card (automatic)
+1952-DVVSW,0,0,0.063320465,Low,One year,20.1,10,No,Mailed check
+7159-FVYPK,0,1,0.73261833,High,Month-to-month,69.15,3,DSL,Bank transfer (automatic)
+5906-CVLHP,1,0,0.10803938,Low,One year,54.15,45,DSL,Credit card (automatic)
+9648-BCHKM,0,0,0.049999367,Low,Two year,24.65,18,No,Credit card (automatic)
+4039-PIMHX,0,0,0.07176938,Low,Two year,49.8,49,DSL,Mailed check
+6500-JVEGC,0,0,0.25736442,Low,One year,101.35,68,Fiber optic,Bank transfer (automatic)
+4118-CEVPF,0,0,0.27673563,Low,One year,110.8,35,Fiber optic,Bank transfer (automatic)
+9227-LUNBG,1,1,0.8317476,High,Month-to-month,24.6,1,DSL,Electronic check
+5148-ORICT,0,0,0.020306263,Low,Two year,74.35,64,DSL,Mailed check
+2925-VDZHY,0,0,0.019046217,Low,Two year,88.7,72,DSL,Credit card (automatic)
+9762-YAQAA,0,0,0.16475329,Low,One year,81.4,39,Fiber optic,Credit card (automatic)
+1666-JXLKU,0,1,0.79364645,High,Month-to-month,100.05,37,Fiber optic,Electronic check
+2263-SFSQZ,0,0,0.041053575,Low,Two year,24.95,51,No,Mailed check
+7471-MQPOS,0,0,0.101743504,Low,One year,72.9,71,DSL,Bank transfer (automatic)
+4419-UJMUS,0,0,0.24182805,Low,Two year,99.35,69,Fiber optic,Electronic check
+5524-KHNJP,0,0,0.19604291,Low,One year,74.75,33,DSL,Credit card (automatic)
+4727-MCYZG,0,1,0.75376654,High,Month-to-month,55.55,1,DSL,Mailed check
+3877-JRJIP,1,1,0.86702454,High,Month-to-month,59.85,1,DSL,Electronic check
+4329-YPDDQ,0,1,0.5987187,Medium,Month-to-month,108.2,20,Fiber optic,Bank transfer (automatic)
+6680-WKXRZ,1,1,0.82848805,High,Month-to-month,74.4,3,Fiber optic,Bank transfer (automatic)
+9867-XOBQA,0,0,0.030426675,Low,Two year,53.15,21,DSL,Mailed check
+0906-QVPMS,0,0,0.05992749,Low,Two year,115.15,72,Fiber optic,Bank transfer (automatic)
+9611-CTWIH,1,1,0.85029465,High,Month-to-month,89.45,3,Fiber optic,Electronic check
+0295-QVKPB,0,1,0.5411756,Medium,Month-to-month,63.95,5,DSL,Credit card (automatic)
+4632-XJMEX,0,0,0.050423667,Low,One year,62.85,53,DSL,Credit card (automatic)
+0655-RBDUG,1,1,0.9411429,High,Month-to-month,98.05,7,Fiber optic,Bank transfer (automatic)
+1247-QBVSH,0,0,0.19786862,Low,Month-to-month,50.2,43,DSL,Mailed check
+2369-FEVNO,0,1,0.6674625,High,Month-to-month,19.9,1,No,Mailed check
+5832-EXGTT,0,0,0.23450847,Low,Month-to-month,60.2,29,DSL,Mailed check
+2829-HYVZP,0,0,0.03294917,Low,One year,19.8,29,No,Mailed check
+2096-XOTMO,0,0,0.2370186,Low,Month-to-month,19.35,16,No,Mailed check
+9767-FFLEM,0,1,0.51359296,Medium,Month-to-month,69.5,38,Fiber optic,Credit card (automatic)
+0969-RGKCU,0,0,0.023712808,Low,One year,19.8,37,No,Credit card (automatic)
+2025-JKFWI,1,1,0.8211334,High,Month-to-month,99.0,13,Fiber optic,Mailed check
+8212-DJRCH,0,1,0.7446792,High,Month-to-month,90.35,5,Fiber optic,Mailed check
+4742-TXUEX,0,0,0.009931833,Low,Two year,19.3,47,No,Bank transfer (automatic)
+3978-YNKDD,0,0,0.027908677,Low,Two year,20.85,19,No,Credit card (automatic)
+9089-UOWJG,0,0,0.40738982,Medium,Month-to-month,58.35,12,DSL,Credit card (automatic)
+5271-YNWVR,1,0,0.16796902,Low,Two year,113.15,68,Fiber optic,Electronic check
+0409-WTMPL,0,0,0.49369118,Medium,One year,110.65,58,Fiber optic,Credit card (automatic)
+8042-RNLKO,0,0,0.022842132,Low,One year,25.45,66,No,Bank transfer (automatic)
+6578-KRMAW,0,1,0.53447133,Medium,Month-to-month,93.4,32,Fiber optic,Credit card (automatic)
+4282-MSACW,0,0,0.49930716,Medium,One year,117.2,68,Fiber optic,Credit card (automatic)
+8053-WWDRO,1,0,0.32453573,Medium,Month-to-month,19.5,6,No,Bank transfer (automatic)
+3373-YZZYM,0,0,0.4791775,Medium,Month-to-month,19.2,1,No,Mailed check
+5222-IMUKT,0,1,0.6739651,High,Month-to-month,91.05,32,Fiber optic,Electronic check
+5158-RIVOP,0,0,0.029337145,Low,Two year,20.9,11,No,Credit card (automatic)
+3884-UEBXB,0,0,0.027483355,Low,Two year,36.15,67,DSL,Bank transfer (automatic)
+8023-QHAIO,0,0,0.36560506,Medium,Month-to-month,76.85,56,Fiber optic,Bank transfer (automatic)
+5698-BQJOH,1,1,0.8564589,High,Month-to-month,94.4,9,Fiber optic,Electronic check
+6870-ZWMNX,0,0,0.068877146,Low,Two year,76.1,70,DSL,Credit card (automatic)
+4785-FCIFB,0,0,0.034310896,Low,Two year,24.4,61,No,Mailed check
+3672-YITQD,1,1,0.7975773,High,Month-to-month,84.1,36,Fiber optic,Electronic check
+0447-RXSGD,0,1,0.7590012,High,Month-to-month,99.65,24,Fiber optic,Bank transfer (automatic)
+4086-WITJG,0,0,0.0056623644,Low,Two year,19.7,71,No,Credit card (automatic)
+7872-BAAZR,0,0,0.22053878,Low,One year,19.55,53,No,Bank transfer (automatic)
+3589-PPVKW,0,1,0.51488626,Medium,Month-to-month,44.4,9,DSL,Mailed check
+8720-RQSBJ,0,1,0.88064706,High,Month-to-month,44.0,1,DSL,Electronic check
+7551-DACSP,1,1,0.51496255,Medium,Month-to-month,55.3,6,DSL,Mailed check
+7854-EKTJL,1,0,0.40351248,Medium,Month-to-month,19.6,2,No,Electronic check
+5373-SFODM,1,1,0.7169985,High,Month-to-month,85.25,36,Fiber optic,Credit card (automatic)
+2812-SFXMJ,0,1,0.6377304,High,Month-to-month,20.05,1,No,Mailed check
+3374-PZLXD,0,0,0.108051285,Low,Month-to-month,19.7,34,No,Mailed check
+9860-LISIZ,0,0,0.10461336,Low,Month-to-month,20.35,34,No,Mailed check
+1982-FEBTD,0,0,0.0711999,Low,Two year,25.6,23,No,Credit card (automatic)
+9402-ORRAH,0,1,0.7926305,High,Month-to-month,91.5,15,Fiber optic,Electronic check
+5014-WUQMG,0,0,0.25950104,Low,One year,96.1,47,Fiber optic,Electronic check
+7789-CRUVC,0,0,0.22005796,Low,Month-to-month,94.2,61,Fiber optic,Credit card (automatic)
+1069-XAIEM,1,1,0.9635537,High,Month-to-month,85.05,1,Fiber optic,Electronic check
+9953-ZMKSM,0,0,0.015702514,Low,Two year,25.25,63,No,Mailed check
+8617-ENBDS,0,1,0.7786847,High,Month-to-month,73.6,3,Fiber optic,Credit card (automatic)
+7611-YKYTC,0,0,0.4044669,Medium,Month-to-month,75.0,22,Fiber optic,Bank transfer (automatic)
+0071-NDAFP,0,0,0.037551284,Low,Two year,25.5,25,No,Credit card (automatic)
+4369-NYSCF,0,0,0.21137387,Low,One year,75.75,56,DSL,Bank transfer (automatic)
+3841-CONLJ,0,1,0.8710744,High,Month-to-month,35.0,1,DSL,Electronic check
+5159-YFPKQ,1,1,0.8481436,High,Month-to-month,75.8,2,Fiber optic,Electronic check
+5052-PNLOS,1,1,0.9482041,High,Month-to-month,105.35,3,Fiber optic,Bank transfer (automatic)
+7399-QHBJS,0,0,0.017000683,Low,Two year,66.75,72,DSL,Credit card (automatic)
+6834-NXDCA,1,1,0.7273103,High,Month-to-month,23.9,13,DSL,Electronic check
+5198-HQAEN,0,0,0.30646935,Medium,One year,89.7,35,Fiber optic,Electronic check
+1608-GMEWB,0,1,0.68979377,High,Month-to-month,93.9,45,Fiber optic,Bank transfer (automatic)
+1746-TGTWV,0,1,0.87450546,High,Month-to-month,75.35,1,Fiber optic,Credit card (automatic)
+6891-JPYFF,0,1,0.6293133,High,Month-to-month,105.25,48,Fiber optic,Credit card (automatic)
+8173-RXAYP,0,0,0.03004774,Low,Two year,19.7,24,No,Mailed check
+4989-LIXVT,0,1,0.67153496,High,Month-to-month,95.9,68,Fiber optic,Electronic check
+9840-DVNDC,1,1,0.76809573,High,Month-to-month,80.5,6,Fiber optic,Credit card (automatic)
+2040-XBAVJ,0,0,0.042471968,Low,Two year,114.45,72,Fiber optic,Bank transfer (automatic)
+6344-SFJVH,0,0,0.3710495,Medium,Month-to-month,24.9,20,DSL,Credit card (automatic)
+9548-LERKT,0,0,0.033425823,Low,Two year,19.75,24,No,Mailed check
+8709-KRDVL,0,1,0.75990367,High,Month-to-month,100.0,33,Fiber optic,Electronic check
+5976-JCJRH,1,1,0.7382888,High,Month-to-month,70.3,10,Fiber optic,Electronic check
+4829-AUOAX,1,1,0.59508497,Medium,Month-to-month,96.05,46,Fiber optic,Bank transfer (automatic)
+9286-BHDQG,0,0,0.016568998,Low,Two year,45.25,72,DSL,Credit card (automatic)
+9907-SWKKF,1,1,0.8717909,High,Month-to-month,25.05,1,DSL,Mailed check
+8266-VBFQL,0,1,0.75770384,High,Month-to-month,90.4,4,Fiber optic,Electronic check
+4512-ZUIYL,1,1,0.76816505,High,Month-to-month,70.0,2,Fiber optic,Bank transfer (automatic)
+7503-QQRVF,1,1,0.687044,High,Month-to-month,74.3,16,Fiber optic,Credit card (automatic)
+7923-IYJWY,0,0,0.3807431,Medium,Two year,116.1,67,Fiber optic,Credit card (automatic)
+9565-JSNFM,1,0,0.15603557,Low,One year,70.45,38,Fiber optic,Bank transfer (automatic)
+7359-WWYJV,0,0,0.06891579,Low,Two year,114.45,72,Fiber optic,Credit card (automatic)
+6497-TILVL,0,0,0.4087917,Medium,Month-to-month,50.7,7,DSL,Mailed check
+5331-RGMTT,0,1,0.7507068,High,Month-to-month,99.05,54,Fiber optic,Credit card (automatic)
+2856-HYAPG,1,1,0.9061423,High,Month-to-month,68.65,1,Fiber optic,Electronic check
+0733-VUNUW,1,0,0.2748159,Low,Month-to-month,55.65,24,DSL,Bank transfer (automatic)
+8966-KZXXA,0,0,0.032955177,Low,Two year,25.1,36,No,Credit card (automatic)
+0576-WNXXC,1,1,0.7650088,High,Month-to-month,95.55,27,Fiber optic,Electronic check
+7601-GNDYK,0,0,0.020218754,Low,Two year,19.6,35,No,Mailed check
+5228-EXCET,1,1,0.75077504,High,Month-to-month,80.85,13,Fiber optic,Electronic check
+9048-JVYVF,1,1,0.6742547,High,Month-to-month,69.35,3,DSL,Electronic check
+2129-ALKBS,0,0,0.40843564,Medium,Month-to-month,26.2,40,No,Electronic check
+5240-CAOYT,0,0,0.2680158,Low,Month-to-month,87.55,57,Fiber optic,Bank transfer (automatic)
+8259-DZLIZ,0,0,0.06801114,Low,One year,53.85,64,DSL,Bank transfer (automatic)
+9050-QLROH,1,1,0.6829359,High,Month-to-month,90.7,18,Fiber optic,Credit card (automatic)
+7037-MTYVW,0,0,0.045155518,Low,Two year,85.4,38,DSL,Bank transfer (automatic)
+0679-IDSTG,1,1,0.9385042,High,Month-to-month,69.25,1,Fiber optic,Electronic check
+6376-GAHQE,1,1,0.8228081,High,Month-to-month,77.85,4,Fiber optic,Electronic check
+9732-KPKBW,1,1,0.6699369,High,Month-to-month,53.95,1,DSL,Electronic check
+6331-LWDTQ,1,1,0.5369761,Medium,Month-to-month,72.15,10,DSL,Credit card (automatic)
+0829-XXPLX,0,1,0.5554438,Medium,Month-to-month,89.4,20,Fiber optic,Bank transfer (automatic)
+1170-SASML,0,0,0.47059193,Medium,Month-to-month,85.4,69,Fiber optic,Bank transfer (automatic)
+8621-MNIHH,1,1,0.73951685,High,Month-to-month,94.25,34,Fiber optic,Electronic check
+5103-MHMHY,1,1,0.740562,High,Month-to-month,45.95,1,DSL,Mailed check
+6671-NGWON,0,0,0.23214948,Low,Month-to-month,20.35,7,No,Mailed check
+1329-VHWNP,0,1,0.59739596,Medium,Month-to-month,25.05,7,DSL,Bank transfer (automatic)
+7579-KKLOE,0,0,0.022617096,Low,Two year,91.25,71,DSL,Mailed check
+4049-ZPALD,0,0,0.138626,Low,Two year,99.0,64,Fiber optic,Bank transfer (automatic)
+6475-VHUIZ,0,0,0.31468344,Medium,Month-to-month,54.25,23,DSL,Electronic check
+6000-UKLWI,0,0,0.018251993,Low,Two year,20.15,41,No,Mailed check
+4589-IUAJB,0,0,0.01979898,Low,Two year,24.25,70,No,Bank transfer (automatic)
+5827-MWCZK,0,0,0.40505546,Medium,Month-to-month,96.95,56,Fiber optic,Credit card (automatic)
+3540-RZJYU,1,1,0.62945,High,Month-to-month,86.2,15,Fiber optic,Electronic check
+5327-XOKKY,0,0,0.08175807,Low,Two year,73.45,72,DSL,Credit card (automatic)
+5357-TZHPP,1,1,0.88753676,High,Month-to-month,84.4,9,Fiber optic,Credit card (automatic)
+9506-UXUSK,0,1,0.7464876,High,Month-to-month,70.15,13,Fiber optic,Electronic check
+1744-JHKYS,0,0,0.38266677,Medium,Month-to-month,24.7,34,No,Electronic check
+7926-IJOOU,0,0,0.42367667,Medium,Month-to-month,19.3,1,No,Credit card (automatic)
+3125-RAHBV,0,0,0.042185266,Low,One year,20.3,22,No,Credit card (automatic)
+5178-LMXOP,1,1,0.9687838,High,Month-to-month,95.1,1,Fiber optic,Electronic check
+1986-PHGZF,0,0,0.330733,Medium,Month-to-month,58.4,18,DSL,Credit card (automatic)
+8128-YVJRG,1,1,0.7116262,High,Month-to-month,79.65,7,Fiber optic,Mailed check
+8393-JMVMB,0,1,0.6288089,High,Month-to-month,19.45,1,No,Mailed check
+9153-BTBVV,0,0,0.008370434,Low,Two year,25.0,71,No,Bank transfer (automatic)
+0719-SYFRB,1,0,0.30270487,Medium,Month-to-month,61.65,12,DSL,Mailed check
+9674-EHPPG,0,0,0.037875038,Low,Two year,40.4,46,DSL,Credit card (automatic)
+7056-IMHCC,1,1,0.8184688,High,Month-to-month,101.9,53,Fiber optic,Electronic check
+0379-DJQHR,0,0,0.04991084,Low,Two year,81.35,67,DSL,Credit card (automatic)
+2105-PHWON,0,1,0.5996779,Medium,Month-to-month,95.0,33,Fiber optic,Credit card (automatic)
+9389-ACWBI,0,1,0.74008334,High,Month-to-month,69.95,5,Fiber optic,Credit card (automatic)
+5699-BNCAS,0,0,0.00817235,Low,Two year,24.65,71,No,Mailed check
+8455-HIRAQ,0,0,0.4042063,Medium,Month-to-month,44.45,8,DSL,Mailed check
+9233-PSYHO,0,0,0.4801791,Medium,One year,100.15,45,Fiber optic,Bank transfer (automatic)
+8821-KVZKQ,0,0,0.12332581,Low,One year,58.4,70,DSL,Bank transfer (automatic)
+6668-CNMFP,0,0,0.27177295,Low,One year,89.35,19,Fiber optic,Bank transfer (automatic)
+3721-CNEYS,1,1,0.82566404,High,Month-to-month,70.95,2,Fiber optic,Electronic check
+6435-SRWBJ,0,1,0.88108623,High,Month-to-month,82.75,5,Fiber optic,Electronic check
+4538-WNTMJ,0,0,0.062231727,Low,One year,24.95,46,No,Mailed check
+2108-YKQTY,1,1,0.50970936,Medium,Month-to-month,50.7,4,DSL,Credit card (automatic)
+3097-NQYSN,1,1,0.9036205,High,Month-to-month,86.85,2,Fiber optic,Mailed check
+1395-OFUWC,0,0,0.27806807,Low,Month-to-month,29.3,43,DSL,Credit card (automatic)
+7878-JGDKK,0,1,0.5884588,Medium,Month-to-month,44.55,4,DSL,Mailed check
+8097-OMULG,0,0,0.16652669,Low,One year,76.75,59,DSL,Credit card (automatic)
+1066-JKSGK,1,1,0.6224899,High,Month-to-month,20.15,1,No,Mailed check
+5975-BAICR,0,0,0.1639045,Low,One year,63.7,36,DSL,Credit card (automatic)
+5445-GLVOT,0,1,0.65204364,High,Month-to-month,49.8,22,DSL,Electronic check
+8402-EIVQS,0,0,0.3851845,Medium,One year,100.9,67,Fiber optic,Credit card (automatic)
+9572-WUKSB,0,1,0.7332823,High,Month-to-month,29.9,3,DSL,Electronic check
+7629-WIXZF,0,0,0.25695243,Low,One year,59.1,7,DSL,Electronic check
+7198-GLXTC,1,1,0.82224876,High,Month-to-month,79.0,2,Fiber optic,Electronic check
+5067-DGXLL,0,0,0.2013623,Low,Month-to-month,20.25,2,No,Mailed check
+5774-QPLTF,0,0,0.041444283,Low,One year,20.35,50,No,Mailed check
+3537-RYBHH,0,0,0.35050598,Medium,Month-to-month,67.45,47,DSL,Credit card (automatic)
+4002-BQWPQ,0,0,0.22507682,Low,Month-to-month,81.75,25,DSL,Bank transfer (automatic)
+2165-VOEGB,1,0,0.3165106,Medium,One year,105.2,46,Fiber optic,Bank transfer (automatic)
+4154-AQUGT,1,1,0.7698973,High,Month-to-month,89.05,13,Fiber optic,Bank transfer (automatic)
+5985-BEHZK,0,0,0.15196703,Low,One year,105.0,72,Fiber optic,Credit card (automatic)
+3450-WXOAT,0,0,0.26554254,Low,Month-to-month,45.2,46,DSL,Credit card (automatic)
+6060-QBMGV,0,0,0.01024584,Low,Two year,19.85,70,No,Credit card (automatic)
+8696-JKZNU,1,1,0.7555313,High,Month-to-month,76.25,37,Fiber optic,Electronic check
+8429-XIBUM,1,1,0.70904475,High,Month-to-month,101.35,22,Fiber optic,Bank transfer (automatic)
+9445-SZLCH,1,1,0.5571679,Medium,Month-to-month,97.35,36,Fiber optic,Bank transfer (automatic)
+0876-WDUUZ,1,1,0.79024637,High,Month-to-month,85.4,5,Fiber optic,Credit card (automatic)
+6094-ZIVKX,0,0,0.060571108,Low,One year,54.45,68,DSL,Credit card (automatic)
+5149-QYTTU,0,0,0.043028492,Low,One year,95.15,71,Fiber optic,Credit card (automatic)
+1474-JUWSM,0,0,0.11799049,Low,One year,68.4,58,DSL,Electronic check
+3318-OSATS,1,1,0.7753664,High,Month-to-month,95.45,35,Fiber optic,Electronic check
+2956-GGUCQ,1,1,0.60788494,High,Month-to-month,78.85,24,Fiber optic,Electronic check
+9753-OYLBX,0,1,0.5527546,Medium,Month-to-month,20.5,1,No,Mailed check
+8701-DGLVH,0,0,0.014137385,Low,Two year,20.45,51,No,Mailed check
+3211-AAPKX,0,1,0.7743979,High,Month-to-month,98.55,20,Fiber optic,Mailed check
+3400-ESFUW,1,0,0.037628714,Low,Two year,57.55,55,DSL,Bank transfer (automatic)
+5136-GFPMB,0,1,0.5331096,Medium,Month-to-month,89.4,54,Fiber optic,Credit card (automatic)
+8050-XGRVL,0,0,0.045462385,Low,One year,54.75,62,DSL,Credit card (automatic)
+0778-NELLA,1,1,0.65041125,High,Month-to-month,34.7,9,DSL,Credit card (automatic)
+5322-TEUJK,0,0,0.047401384,Low,Two year,114.6,71,Fiber optic,Bank transfer (automatic)
+0623-EJQEG,0,0,0.17805283,Low,One year,93.55,65,Fiber optic,Electronic check
+6617-WLBQC,0,0,0.09522462,Low,One year,81.85,23,Fiber optic,Credit card (automatic)
+0824-VWDPO,0,0,0.24472177,Low,One year,96.75,45,Fiber optic,Bank transfer (automatic)
+3308-DGHKL,0,0,0.012182272,Low,Two year,19.3,69,No,Bank transfer (automatic)
+6557-BZXLQ,0,1,0.67357284,High,Month-to-month,69.65,16,Fiber optic,Electronic check
+9795-SHUHB,0,0,0.019357432,Low,Two year,58.2,66,DSL,Credit card (automatic)
+5339-PXDVH,0,1,0.8201218,High,Month-to-month,90.65,4,Fiber optic,Electronic check
+7016-NVRIC,0,0,0.22601536,Low,One year,90.1,29,Fiber optic,Bank transfer (automatic)
+8152-UOBNY,0,1,0.5812749,Medium,One year,106.8,50,Fiber optic,Electronic check
+9254-RBFON,1,0,0.35975307,Medium,One year,98.6,17,Fiber optic,Bank transfer (automatic)
+6723-CEGQI,0,0,0.020701665,Low,Two year,45.25,65,DSL,Mailed check
+4707-MAXGU,0,0,0.0064285626,Low,Two year,25.85,72,No,Credit card (automatic)
+6166-ILMNY,1,1,0.77946997,High,Month-to-month,69.75,2,Fiber optic,Bank transfer (automatic)
+0040-HALCW,0,0,0.08417827,Low,Two year,20.4,54,No,Credit card (automatic)
+9804-ICWBG,1,1,0.9328483,High,Month-to-month,69.9,1,Fiber optic,Electronic check
+7876-BEUTG,0,0,0.49963441,Medium,Month-to-month,48.8,15,DSL,Mailed check
+2325-ZUSFD,1,0,0.11727382,Low,One year,70.1,57,DSL,Bank transfer (automatic)
+0096-BXERS,0,1,0.6773437,High,Month-to-month,50.35,6,DSL,Electronic check
+9086-YJYXS,0,0,0.24813224,Low,One year,77.2,34,DSL,Bank transfer (automatic)
+2309-OSFEU,1,1,0.61891145,High,Month-to-month,33.9,10,DSL,Mailed check
+7740-BTPUX,0,0,0.48898003,Medium,Two year,113.6,55,Fiber optic,Electronic check
+7931-PXHFC,1,0,0.22595046,Low,One year,62.3,38,DSL,Mailed check
+3694-GLTJM,0,0,0.237159,Low,Month-to-month,19.65,5,No,Credit card (automatic)
+0230-UBYPQ,0,0,0.04513544,Low,One year,36.1,63,DSL,Bank transfer (automatic)
+2984-AFWNC,0,1,0.8256881,High,Month-to-month,95.4,3,Fiber optic,Electronic check
+4753-PADAS,0,0,0.4800103,Medium,One year,105.7,67,Fiber optic,Bank transfer (automatic)
+7808-DVWEP,0,0,0.3405184,Medium,Month-to-month,20.0,3,No,Bank transfer (automatic)
+2103-ZRXFN,0,1,0.79578185,High,Month-to-month,50.75,1,DSL,Mailed check
+3785-NRHYR,0,1,0.62761235,High,Month-to-month,19.65,1,No,Mailed check
+4640-UHDOS,1,0,0.45720565,Medium,Month-to-month,55.95,13,DSL,Electronic check
+0487-VVUVK,0,0,0.14929233,Low,Month-to-month,19.15,25,No,Mailed check
+1784-EZDKJ,0,1,0.56147647,Medium,One year,106.8,51,Fiber optic,Bank transfer (automatic)
+3627-FHKBK,1,1,0.77733034,High,Month-to-month,75.3,1,Fiber optic,Mailed check
+8375-KVTHK,0,0,0.38780648,Medium,One year,100.3,68,Fiber optic,Electronic check
+5583-EJXRD,0,0,0.02672232,Low,Two year,54.05,44,DSL,Credit card (automatic)
+3030-YDNRM,0,1,0.8621054,High,Month-to-month,74.85,8,Fiber optic,Electronic check
+4342-HENTK,1,1,0.8368643,High,Month-to-month,70.65,2,Fiber optic,Electronic check
+2750-BJLSB,0,0,0.47025678,Medium,One year,103.7,47,Fiber optic,Electronic check
+7881-EVUAD,1,1,0.83966076,High,Month-to-month,42.6,2,DSL,Electronic check
+6000-APYLU,1,1,0.75970334,High,Month-to-month,80.8,9,Fiber optic,Electronic check
+7711-GQBZC,0,0,0.008158139,Low,Two year,24.7,71,No,Bank transfer (automatic)
+0822-QGCXA,0,1,0.5156923,Medium,Month-to-month,83.85,27,DSL,Electronic check
+1936-CZAKF,0,0,0.07539384,Low,Two year,49.65,49,DSL,Credit card (automatic)
+5980-BDHPY,0,0,0.013243501,Low,Two year,87.1,72,DSL,Bank transfer (automatic)
+7277-OZCGZ,0,1,0.6230598,High,Month-to-month,89.05,22,Fiber optic,Electronic check
+4324-AHJKS,0,1,0.5521169,Medium,Month-to-month,55.8,5,DSL,Credit card (automatic)
+0823-HSCDJ,1,1,0.6350686,High,Month-to-month,49.15,52,DSL,Electronic check
+3556-BVQGL,0,0,0.05204496,Low,One year,20.0,20,No,Mailed check
+2865-TCHJW,1,1,0.9339292,High,Month-to-month,89.2,4,Fiber optic,Electronic check
+0168-XZKBB,0,1,0.81052625,High,Month-to-month,86.85,19,Fiber optic,Electronic check
+4817-VYYWS,1,1,0.7838597,High,Month-to-month,100.2,30,Fiber optic,Electronic check
+0235-KGSLC,1,1,0.9086642,High,Month-to-month,85.55,1,Fiber optic,Credit card (automatic)
+4770-QAZXN,0,0,0.13955659,Low,Month-to-month,19.45,13,No,Credit card (automatic)
+3785-KTYSH,0,0,0.0638487,Low,Two year,24.6,53,No,Mailed check
+4283-FUTGF,1,1,0.79354537,High,Month-to-month,79.85,19,Fiber optic,Electronic check
+4115-NZRKS,0,1,0.8509333,High,Month-to-month,89.15,7,Fiber optic,Electronic check
+6806-YDEUL,0,0,0.20158117,Low,Month-to-month,19.5,6,No,Bank transfer (automatic)
+4128-ETESU,0,1,0.7569323,High,Month-to-month,99.7,47,Fiber optic,Electronic check
+2085-JVGAD,0,0,0.07203149,Low,Month-to-month,20.35,37,No,Bank transfer (automatic)
+4360-PNRQB,0,1,0.59125006,Medium,Month-to-month,75.6,18,Fiber optic,Bank transfer (automatic)
+4353-HYOJD,0,0,0.18000117,Low,Month-to-month,49.85,27,DSL,Mailed check
+3179-GBRWV,0,0,0.36565536,Medium,Month-to-month,64.95,21,DSL,Bank transfer (automatic)
+4818-QIUFN,1,1,0.7170032,High,Month-to-month,79.15,20,Fiber optic,Electronic check
+7504-UWHNB,0,1,0.515259,Medium,Month-to-month,69.75,25,Fiber optic,Electronic check
+5553-AOINX,0,0,0.4982963,Medium,One year,104.9,66,Fiber optic,Electronic check
+3410-MHHUM,0,0,0.27375218,Low,One year,94.4,44,Fiber optic,Electronic check
+3192-LNKRK,0,1,0.62772256,High,Month-to-month,84.05,34,Fiber optic,Mailed check
+1097-FSPVW,0,0,0.2463727,Low,Month-to-month,54.55,42,DSL,Credit card (automatic)
+2483-XSSMZ,0,0,0.17293172,Low,One year,47.85,39,DSL,Electronic check
+2732-ISEZX,0,0,0.2587144,Low,Month-to-month,20.5,5,No,Mailed check
+7975-JMZNT,0,0,0.044062205,Low,Two year,91.7,66,DSL,Bank transfer (automatic)
+3606-SBKRY,0,0,0.4129455,Medium,One year,50.05,31,DSL,Electronic check
+1047-RNXZV,0,0,0.022996709,Low,Two year,19.55,43,No,Mailed check
+5174-ITUMV,0,1,0.52499306,Medium,One year,105.4,67,Fiber optic,Electronic check
+0080-EMYVY,0,0,0.19155315,Low,One year,51.45,14,DSL,Credit card (automatic)
+6956-SMUCM,1,1,0.85759485,High,Month-to-month,99.0,3,Fiber optic,Credit card (automatic)
+1265-BCFEO,0,0,0.026831528,Low,Two year,80.45,71,DSL,Bank transfer (automatic)
+3696-XRIEN,0,0,0.21218881,Low,One year,82.5,50,DSL,Credit card (automatic)
+0853-TWRVK,0,0,0.043132853,Low,Two year,105.6,72,Fiber optic,Bank transfer (automatic)
+6521-YYTYI,1,1,0.94775707,High,Month-to-month,93.3,1,Fiber optic,Electronic check
+7244-KXYZN,0,0,0.04064008,Low,One year,20.45,24,No,Credit card (automatic)
+4946-EDSEW,1,0,0.3429551,Medium,Month-to-month,19.25,11,No,Mailed check
+1763-WQFUK,0,1,0.58740324,Medium,Month-to-month,50.5,3,DSL,Mailed check
+2761-OCIAX,1,1,0.83815396,High,Month-to-month,74.7,2,Fiber optic,Electronic check
+2282-YGNOR,0,0,0.075700864,Low,One year,58.0,29,DSL,Credit card (automatic)
+1862-QRWPE,0,0,0.035233013,Low,Two year,20.65,48,No,Bank transfer (automatic)
+8857-CUPFQ,0,0,0.027682018,Low,Two year,19.25,63,No,Mailed check
+5630-AHZIL,0,1,0.5703785,Medium,Month-to-month,64.5,3,DSL,Bank transfer (automatic)
+5949-EBSQK,1,0,0.4087978,Medium,Month-to-month,61.45,4,DSL,Credit card (automatic)
+8654-DHAOW,0,1,0.6562508,High,Month-to-month,54.15,2,DSL,Mailed check
+4393-RYCRE,0,0,0.43831486,Medium,One year,106.05,44,Fiber optic,Electronic check
+9297-EONCV,0,0,0.01985156,Low,Two year,91.35,72,DSL,Bank transfer (automatic)
+2272-WUSPA,0,0,0.07025481,Low,Two year,110.75,72,Fiber optic,Electronic check
+6892-XPFPU,1,1,0.85612166,High,Month-to-month,104.25,24,Fiber optic,Electronic check
+7534-BFESC,1,1,0.6932189,High,Month-to-month,76.1,24,Fiber optic,Electronic check
+5027-YOCXN,0,0,0.2815597,Low,One year,110.05,51,Fiber optic,Credit card (automatic)
+9470-YFUYI,0,0,0.025074776,Low,One year,71.0,71,DSL,Bank transfer (automatic)
+6518-KZXCB,0,0,0.03671607,Low,Two year,25.25,22,No,Mailed check
+8869-TORSS,1,0,0.11680225,Low,One year,60.35,48,DSL,Credit card (automatic)
+8699-ASUFO,1,1,0.8246769,High,Month-to-month,74.4,7,Fiber optic,Mailed check
+3156-QLHBO,0,0,0.19646753,Low,Month-to-month,19.25,2,No,Mailed check
+3011-WQKSZ,0,0,0.36855352,Medium,Month-to-month,20.0,19,No,Electronic check
+5533-NHFRF,0,1,0.5742119,Medium,Month-to-month,44.4,7,DSL,Electronic check
+2101-RANCD,0,1,0.5858892,Medium,Month-to-month,73.1,55,Fiber optic,Electronic check
+6817-WTYHE,0,1,0.68117183,High,Month-to-month,44.9,2,DSL,Bank transfer (automatic)
+2482-CZGBB,1,1,0.73456645,High,Month-to-month,70.0,10,Fiber optic,Electronic check
+3523-QRQLL,1,0,0.2916828,Low,One year,69.5,22,DSL,Bank transfer (automatic)
+4304-TSPVK,0,0,0.21693242,Low,Two year,114.9,68,Fiber optic,Bank transfer (automatic)
+9489-UTFKA,0,0,0.47276932,Medium,Month-to-month,60.9,8,DSL,Bank transfer (automatic)
+1459-QNFQT,0,0,0.01925993,Low,Two year,59.5,70,DSL,Bank transfer (automatic)
+4983-CLMLV,0,1,0.52736807,Medium,Month-to-month,102.7,52,Fiber optic,Credit card (automatic)
+1522-VVDMG,1,1,0.74437964,High,Month-to-month,89.75,7,Fiber optic,Electronic check
+8791-GFXLZ,0,0,0.34100178,Medium,Month-to-month,49.05,12,DSL,Bank transfer (automatic)
+2669-QVCRG,0,1,0.50894964,Medium,Month-to-month,81.3,41,Fiber optic,Credit card (automatic)
+6199-IPCAO,0,0,0.051018383,Low,Two year,26.1,29,No,Mailed check
+8727-JQFHV,0,0,0.047936793,Low,Two year,20.75,57,No,Mailed check
+8819-IMISP,0,1,0.72373635,High,Month-to-month,80.45,31,Fiber optic,Electronic check
+0924-BJCRC,0,0,0.39465997,Medium,Month-to-month,89.45,60,Fiber optic,Electronic check
+7821-DPRQE,0,1,0.54062605,Medium,Month-to-month,107.7,68,Fiber optic,Electronic check
+0556-FJEGU,0,0,0.053952284,Low,Two year,70.1,58,DSL,Bank transfer (automatic)
+9878-TNQGW,1,1,0.86107594,High,Month-to-month,80.95,2,Fiber optic,Electronic check
+1766-GKNMI,0,1,0.7601314,High,Month-to-month,84.9,29,Fiber optic,Electronic check
+7422-WNBTY,0,1,0.7143499,High,Month-to-month,93.35,33,Fiber optic,Electronic check
+5915-ANOEI,0,0,0.032096196,Low,Two year,79.15,70,DSL,Mailed check
+6651-AZVTJ,1,1,0.77320135,High,Month-to-month,99.8,49,Fiber optic,Electronic check
+2135-DQWAQ,0,1,0.8426799,High,Month-to-month,85.3,5,Fiber optic,Mailed check
+4685-TFLLS,0,0,0.11648919,Low,One year,19.8,18,No,Bank transfer (automatic)
+7766-CLTIC,0,0,0.3373703,Medium,Month-to-month,60.95,10,DSL,Mailed check
+3761-FLYZI,0,1,0.5896844,Medium,Month-to-month,108.8,65,Fiber optic,Bank transfer (automatic)
+2077-MPJQO,0,1,0.8586793,High,Month-to-month,75.4,7,Fiber optic,Electronic check
+4998-IKFSE,0,1,0.6764275,High,Month-to-month,100.45,30,Fiber optic,Electronic check
+7587-RZNME,1,1,0.755498,High,Month-to-month,43.3,3,DSL,Electronic check
+4078-SAYYN,1,1,0.91780305,High,Month-to-month,100.75,11,Fiber optic,Electronic check
+8041-TMEID,0,0,0.13318853,Low,Two year,108.5,63,Fiber optic,Credit card (automatic)
+3055-MJDSB,0,1,0.56305665,Medium,Month-to-month,24.6,9,DSL,Mailed check
+3018-TFTSU,1,1,0.6147937,High,Month-to-month,81.7,12,Fiber optic,Bank transfer (automatic)
+8976-OQHGT,1,0,0.40419212,Medium,Month-to-month,56.5,4,DSL,Mailed check
+4208-UFFGW,1,1,0.73544914,High,Month-to-month,44.95,2,DSL,Mailed check
+2718-YSKCS,0,0,0.011118982,Low,Two year,19.6,71,No,Bank transfer (automatic)
+5269-NRGDP,0,0,0.30958796,Medium,One year,73.15,42,DSL,Electronic check
+9138-EFSMO,0,0,0.21423782,Low,One year,78.95,26,Fiber optic,Bank transfer (automatic)
+1926-QUZNN,0,0,0.0074204807,Low,Two year,25.25,72,No,Bank transfer (automatic)
+5701-ZIKJE,0,0,0.30163208,Medium,Month-to-month,50.55,13,DSL,Mailed check
+2546-KZAAT,0,0,0.18078326,Low,One year,75.4,52,DSL,Mailed check
+1469-LBJQJ,0,1,0.7470075,High,Month-to-month,105.2,66,Fiber optic,Electronic check
+5186-SAMNZ,1,1,0.90651244,High,Month-to-month,69.5,1,Fiber optic,Bank transfer (automatic)
+6810-VCAEX,0,0,0.07634181,Low,One year,39.65,47,DSL,Credit card (automatic)
+1534-OULXE,0,0,0.046597242,Low,One year,49.7,61,DSL,Bank transfer (automatic)
+9470-RTWDV,0,0,0.24138406,Low,One year,82.0,26,DSL,Credit card (automatic)
+0297-RBCSG,0,0,0.1997881,Low,One year,65.35,19,DSL,Bank transfer (automatic)
+7029-RPUAV,1,1,0.7637214,High,Month-to-month,100.45,17,Fiber optic,Credit card (automatic)
+6519-ZHPXP,0,0,0.07748023,Low,Two year,108.3,72,Fiber optic,Bank transfer (automatic)
+5091-HFAZW,0,1,0.7851232,High,Month-to-month,91.15,2,Fiber optic,Electronic check
+7609-NRNCA,0,0,0.06652833,Low,One year,19.55,17,No,Mailed check
+6734-FQAJX,0,0,0.33866426,Medium,Two year,105.05,67,Fiber optic,Electronic check
+5996-DAOQL,0,1,0.53229487,Medium,Month-to-month,20.45,1,No,Mailed check
+1320-HTRDR,1,1,0.8830415,High,Month-to-month,75.5,3,Fiber optic,Electronic check
+6924-TDGMT,0,0,0.067395866,Low,One year,20.55,11,No,Mailed check
+9073-ZZIAY,0,0,0.030003259,Low,Two year,86.1,62,DSL,Electronic check
+8782-NUUOL,0,0,0.11213311,Low,One year,79.0,60,DSL,Mailed check
+2789-CZANW,0,0,0.12679486,Low,Two year,110.3,64,Fiber optic,Bank transfer (automatic)
+5206-XZZQI,0,0,0.27745262,Low,Month-to-month,80.6,53,Fiber optic,Mailed check
+7690-KPNCU,0,0,0.16975175,Low,One year,73.05,64,DSL,Credit card (automatic)
+5701-SVCWR,0,1,0.63225085,High,Month-to-month,24.0,1,No,Mailed check
+3996-ZNWYK,0,0,0.007970866,Low,Two year,19.8,71,No,Credit card (automatic)
+8963-MQVYN,0,0,0.24017556,Low,Month-to-month,20.55,22,No,Electronic check
+5376-DEQCP,1,1,0.92989933,High,Month-to-month,70.6,1,Fiber optic,Electronic check
+1328-EUZHC,0,0,0.023450157,Low,Two year,20.1,18,No,Mailed check
+1303-SRDOK,0,0,0.0341605,Low,Two year,69.05,55,Fiber optic,Credit card (automatic)
+2582-FFFZR,0,1,0.7212065,High,Month-to-month,50.6,22,DSL,Electronic check
+4750-ZRXIU,1,1,0.9210425,High,Month-to-month,84.6,4,Fiber optic,Electronic check
+6732-FZUGP,0,0,0.25126326,Low,One year,94.9,47,Fiber optic,Credit card (automatic)
+3638-DIMPH,0,0,0.23552534,Low,One year,43.8,13,DSL,Electronic check
+9372-TXXPS,0,0,0.015650552,Low,Two year,59.85,60,DSL,Bank transfer (automatic)
+0750-EBAIU,0,0,0.2781662,Low,One year,91.25,52,Fiber optic,Electronic check
+7410-YTJIK,1,1,0.72321534,High,Month-to-month,75.45,7,Fiber optic,Mailed check
+6695-FRVEC,0,0,0.01611421,Low,Two year,60.4,67,DSL,Bank transfer (automatic)
+8490-BXHEO,0,1,0.6839761,High,Month-to-month,80.55,18,Fiber optic,Credit card (automatic)
+9955-QOPOY,0,0,0.18811354,Low,One year,60.8,69,DSL,Credit card (automatic)
+5313-FPXWG,0,0,0.047875896,Low,One year,24.6,51,No,Bank transfer (automatic)
+0902-RFHOF,0,0,0.037228514,Low,One year,20.1,38,No,Mailed check
+4646-QZXTF,0,1,0.51710564,Medium,Month-to-month,81.25,7,DSL,Bank transfer (automatic)
+2205-LPVGL,0,0,0.10808865,Low,One year,89.85,58,Fiber optic,Bank transfer (automatic)
+2043-WVTQJ,0,1,0.6814825,High,Month-to-month,55.7,1,DSL,Mailed check
+3831-YCPUO,0,0,0.030282531,Low,Two year,109.5,72,Fiber optic,Credit card (automatic)
+8404-VIOMB,0,0,0.02373756,Low,Two year,62.5,66,DSL,Bank transfer (automatic)
+3319-DWOEP,1,1,0.898953,High,Month-to-month,95.75,6,Fiber optic,Electronic check
+3594-BDSOA,0,0,0.04897037,Low,One year,20.4,24,No,Credit card (automatic)
+8318-LCNBW,0,0,0.32622254,Medium,One year,53.15,35,DSL,Credit card (automatic)
+4012-ZTHBR,0,0,0.49871555,Medium,Month-to-month,44.95,21,DSL,Electronic check
+7673-BQGKU,0,0,0.021541925,Low,Two year,20.15,69,No,Bank transfer (automatic)
+8908-SLFCJ,0,0,0.032022167,Low,Two year,20.85,21,No,Credit card (automatic)
+2123-AGEEN,0,1,0.88348484,High,Month-to-month,84.35,7,Fiber optic,Electronic check
+2675-IJRGJ,0,0,0.074926406,Low,Two year,19.65,53,No,Bank transfer (automatic)
+1902-XBTFB,1,1,0.72110134,High,Month-to-month,89.4,22,Fiber optic,Electronic check
+4693-VWVBO,0,0,0.37220818,Medium,Month-to-month,19.55,3,No,Electronic check
+1600-DILPE,0,0,0.40784776,Medium,Month-to-month,45.0,12,DSL,Bank transfer (automatic)
+0128-MKWSG,0,0,0.24533361,Low,Month-to-month,45.8,26,DSL,Mailed check
+1179-INLAT,0,0,0.095254205,Low,One year,19.45,3,No,Mailed check
+3891-NLXJB,0,0,0.058993515,Low,Two year,40.55,37,DSL,Mailed check
+8957-THMOA,0,0,0.034702312,Low,Two year,20.15,50,No,Credit card (automatic)
